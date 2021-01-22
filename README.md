@@ -248,6 +248,11 @@ ICCV, 2019. [[PyTorch](https://github.com/awslabs/aws-cv-task2vec)]
 *[Representation similarity analysis for efficient task taxonomy & transfer learning](https://openaccess.thecvf.com/content_CVPR_2019/html/Dwivedi_Representation_Similarity_Analysis_for_Efficient_Task_Taxonomy__Transfer_Learning_CVPR_2019_paper.html)*,
 CVPR, 2019. [[PyTorch](https://github.com/kshitijd20/RSA-CVPR19-release)]
 
+- <a name="dwivedi2020duality"></a>Dwivedi, K., & Huang, J. & Cichy, R.M. & Roig, G.
+*[Duality Diagram Similarity: a generic framework for initialization selection in task transfer learning](https://arxiv.org/pdf/2008.02107.pdf)*,
+ECCV, 2020. [[PyTorch](https://github.com/cvai-repo/duality-diagram-similarity)]
+
+
 <a name="robustness"></a>
 ## Robustness
 - <a name="maomultitask2020"></a> Mao, C., Gupta, A., Nitin, V., Ray, B., Song, S., Yang, J., & Vondrick, C.
