@@ -50,7 +50,7 @@ Feel free to contact me if you find any interesting paper is missing!
 
 * Anomaly Detection in Video via Self-Supervised and Multi-Task Learning (CVPR, 2021) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Georgescu_Anomaly_Detection_in_Video_via_Self-Supervised_and_Multi-Task_Learning_CVPR_2021_paper.pdf)]
 
-* Taskology: Utilizing Task Relations at Scale (CVPR, 2021) [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Lu_Taskology_Utilizing_Task_Relations_at_Scale_CVPR_2021_paper.pdf)
+* Taskology: Utilizing Task Relations at Scale (CVPR, 2021) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Lu_Taskology_Utilizing_Task_Relations_at_Scale_CVPR_2021_paper.pdf)]
 
 * Three Ways to Improve Semantic Segmentation with Self-Supervised Depth Estimation (CVPR, 2021) [[paper](https://arxiv.org/pdf/2012.10782.pdf)] [[code](https://github.com/lhoyer/improving_segmentation_with_selfsupervised_depth)]
 
