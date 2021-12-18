@@ -102,7 +102,7 @@ Feel free to contact me if you find any interesting paper is missing!
 
 * Duality Diagram Similarity: a generic framework for initialization selection in task transfer learning (ECCV, 2020) [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710494.pdf)] [[code](https://github.com/cvai-repo/duality-diagram-similarity)]
 
-* Knowledge Distillation for Multi-task Learning (ECCV Workshop) [[paper](https://arxiv.org/pdf/2007.06889.pdf)] [[code](https://github.com/VICO-UoE/KD4MTL)]
+* **[KD4MTL]** Knowledge Distillation for Multi-task Learning (ECCV Workshop) [[paper](https://arxiv.org/pdf/2007.06889.pdf)] [[code](https://github.com/VICO-UoE/KD4MTL)]
 
 * MTL-NAS: Task-Agnostic Neural Architecture Search towards General-Purpose Multi-Task Learning (CVPR, 2020) [[paper](https://arxiv.org/abs/2003.14058)] [[code](https://github.com/bhpfelix/MTLNAS)]
 
