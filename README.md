@@ -24,6 +24,8 @@ Feel free to contact me if you find any interesting paper is missing!
 
 * Learning Multiple Dense Prediction Tasks from Partially Annotated Data (arXiv, 2021) [[paper](https://arxiv.org/pdf/2111.14893.pdf)]
 
+* A Closer Look at Loss Weighting in Multi-Task Learning (arXiv, 2021) [[paper](https://arxiv.org/pdf/2111.10603.pdf)]
+
 * Exploring Relational Context for Multi-Task Dense Prediction (ICCV, 2021) [[paper](http://arxiv.org/abs/2104.13874)] [[code](https://github.com/brdav/atrc)]
 
 * Multi-Task Self-Training for Learning General Representations (ICCV, 2021) [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Ghiasi_Multi-Task_Self-Training_for_Learning_General_Representations_ICCV_2021_paper.pdf)]
@@ -73,6 +75,8 @@ Feel free to contact me if you find any interesting paper is missing!
 * Flexible Multi-task Networks by Learning Parameter Allocation (ICLR Workshop, 2021) [[paper](http://arxiv.org/abs/1910.04915)]
 
 * **[Rotograd]** Rotograd: Dynamic Gradient Homogenization for Multi-Task Learning (arXiv, 2021) [[paper](http://arxiv.org/abs/2103.02631)]
+
+* Multi-Loss Weighting with Coefficient of Variations (WACV, 2021) [[paper](https://openaccess.thecvf.com/content/WACV2021/papers/Groenendijk_Multi-Loss_Weighting_With_Coefficient_of_Variations_WACV_2021_paper.pdf)] [[code](https://github.com/rickgroen/cov-weighting)]
 
 ### 2020
 
