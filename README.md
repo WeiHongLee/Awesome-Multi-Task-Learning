@@ -74,7 +74,7 @@ Feel free to contact me if you find any interesting paper is missing!
 
 * Flexible Multi-task Networks by Learning Parameter Allocation (ICLR Workshop, 2021) [[paper](http://arxiv.org/abs/1910.04915)]
 
-* **[Rotograd]** Rotograd: Dynamic Gradient Homogenization for Multi-Task Learning (arXiv, 2021) [[paper](http://arxiv.org/abs/2103.02631)]
+* **[Rotograd]** Rotograd: Dynamic Gradient Homogenization for Multi-Task Learning (arXiv, 2021) [[paper](http://arxiv.org/abs/2103.02631)] [[code](https://github.com/adrianjav/rotograd)]
 
 * Multi-Loss Weighting with Coefficient of Variations (WACV, 2021) [[paper](https://openaccess.thecvf.com/content/WACV2021/papers/Groenendijk_Multi-Loss_Weighting_With_Coefficient_of_Variations_WACV_2021_paper.pdf)] [[code](https://github.com/rickgroen/cov-weighting)]
 
