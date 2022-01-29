@@ -30,6 +30,8 @@ Feel free to contact me if you find any interesting paper is missing!
 
 * Multi-Task Self-Training for Learning General Representations (ICCV, 2021) [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Ghiasi_Multi-Task_Self-Training_for_Learning_General_Representations_ICCV_2021_paper.pdf)]
 
+* Omnidata: A Scalable Pipeline for Making Multi-Task Mid-Level Vision Datasets from 3D Scans (ICCV, 2021) [[paper](https://arxiv.org/pdf/2110.04994.pdf)] [[project](https://omnidata.vision)]
+
 * Domain Adaptive Semantic Segmentation with Self-Supervised Depth Estimation (ICCV, 2021) [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Domain_Adaptive_Semantic_Segmentation_With_Self-Supervised_Depth_Estimation_ICCV_2021_paper.pdf)] [[code](https://qin.ee/corda)]
 
 * **[URL]** Universal Representation Learning from Multiple Domains for Few-shot Classification (ICCV, 2021) [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_Universal_Representation_Learning_From_Multiple_Domains_for_Few-Shot_Classification_ICCV_2021_paper.pdf)] [[code](https://github.com/VICO-UoE/URL)]
