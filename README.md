@@ -20,6 +20,10 @@ Feel free to contact me if you find any interesting paper is missing!
 
 * Auto-λ: Disentangling Dynamic Task Relationships (arXiv, 2022) [[paper](https://arxiv.org/pdf/2202.03091.pdf)] [[code](https://github.com/lorenmt/auto-lambda)]
 
+* In Defense of the Unitary Scalarization for Deep Multi-Task Learning (arXiv, 2022) [[paper](https://arxiv.org/pdf/2201.04122.pdf)]
+
+* Multi-Task Learning as a Bargaining Game (arXiv, 2022) [[paper](https://arxiv.org/pdf/2202.01017.pdf)] [[code](https://github.com/AvivNavon/nash-mtl)]
+
 ### 2021
 
 * Efficiently Identifying Task Groupings for Multi-Task Learning (NeurIPS, 2021) [[paper](http://arxiv.org/abs/2109.04617)]
