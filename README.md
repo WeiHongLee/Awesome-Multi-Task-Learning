@@ -16,6 +16,10 @@ Feel free to contact me if you find any interesting paper is missing!
 
 ## Papers
 
+### 2022
+
+* Auto-λ: Disentangling Dynamic Task Relationships (arXiv, 2022) [[paper](https://arxiv.org/pdf/2202.03091.pdf)] [[code](https://github.com/lorenmt/auto-lambda)]
+
 ### 2021
 
 * Efficiently Identifying Task Groupings for Multi-Task Learning (NeurIPS, 2021) [[paper](http://arxiv.org/abs/2109.04617)]
