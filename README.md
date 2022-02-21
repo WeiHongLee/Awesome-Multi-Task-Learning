@@ -38,6 +38,8 @@ Feel free to contact me if you find any interesting paper is missing!
 
 * Multi-Task Self-Training for Learning General Representations (ICCV, 2021) [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Ghiasi_Multi-Task_Self-Training_for_Learning_General_Representations_ICCV_2021_paper.pdf)]
 
+* Task Switching Network for Multi-task Learning (ICCV, 2021) [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Sun_Task_Switching_Network_for_Multi-Task_Learning_ICCV_2021_paper.html)] [[code](https://github.com/GuoleiSun/TSNs)]
+
 * Omnidata: A Scalable Pipeline for Making Multi-Task Mid-Level Vision Datasets from 3D Scans (ICCV, 2021) [[paper](https://arxiv.org/pdf/2110.04994.pdf)] [[project](https://omnidata.vision)]
 
 * Domain Adaptive Semantic Segmentation with Self-Supervised Depth Estimation (ICCV, 2021) [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Domain_Adaptive_Semantic_Segmentation_With_Self-Supervised_Depth_Estimation_ICCV_2021_paper.pdf)] [[code](https://qin.ee/corda)]
@@ -59,6 +61,8 @@ Feel free to contact me if you find any interesting paper is missing!
 * UniT: Multimodal Multitask Learning with a Unified Transformer (arXiv, 2021) [[paper](http://arxiv.org/abs/2102.10772)]
 
 * Learning to Relate Depth and Semantics for Unsupervised Domain Adaptation (CVPR, 2021) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Saha_Learning_To_Relate_Depth_and_Semantics_for_Unsupervised_Domain_Adaptation_CVPR_2021_paper.pdf)] [[code](https://github.com/susaha/ctrl-uda)]
+
+* CompositeTasking: Understanding Images by Spatial Composition of Tasks (CVPR, 2021) [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Popovic_CompositeTasking_Understanding_Images_by_Spatial_Composition_of_Tasks_CVPR_2021_paper.html)] [[code](https://github.com/nikola3794/composite-tasking)]
 
 * Anomaly Detection in Video via Self-Supervised and Multi-Task Learning (CVPR, 2021) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Georgescu_Anomaly_Detection_in_Video_via_Self-Supervised_and_Multi-Task_Learning_CVPR_2021_paper.pdf)]
 
