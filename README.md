@@ -18,17 +18,17 @@ Feel free to contact me if you find any interesting paper is missing!
 
 ### 2022
 
-* VISUAL REPRESENTATION LEARNING OVER LATENT DOMAINS (ICLR, 2022) [[paper](https://openreview.net/pdf?id=kG0AtPi6JI1)]
+* Visual Representation Learning over Latent Domains (ICLR, 2022) [[paper](https://openreview.net/pdf?id=kG0AtPi6JI1)]
 
-* ADARL: WHAT, WHERE, AND HOW TO ADAPT IN TRANSFER REINFORCEMENT LEARNING (ICLR, 2022) [[paper](https://openreview.net/pdf?id=8H5bpVwvt5)] [[code](https://github.com/Adaptive-RL/AdaRL-code)]
+* ADARL: What, Where, and How to Adapt in Transfer Reinforcement Learning (ICLR, 2022) [[paper](https://openreview.net/pdf?id=8H5bpVwvt5)] [[code](https://github.com/Adaptive-RL/AdaRL-code)]
 
 * Towards a Unified View of Parameter-Efficient Transfer Learning (ICLR, 2022) [[paper](https://openreview.net/pdf?id=0RDcd5Axok)] [[code](https://github.com/jxhe/unify-parameter-efficient-tuning)]
 
 * **[Rotograd]** Rotograd: Dynamic Gradient Homogenization for Multi-Task Learning (ICLR, 2022) [[paper](https://openreview.net/pdf?id=T8wHz4rnuGL)] [[code](https://github.com/adrianjav/rotograd)]
 
-* RELATIONAL MULTI-TASK LEARNING: MODELING RELATIONS BETWEEN DATA AND TASKS (ICLR, 2022) [[paper](https://openreview.net/pdf?id=8Py-W8lSUgy)]
+* Relational Multi-task Learning: Modeling Relations Between Data and Tasks (ICLR, 2022) [[paper](https://openreview.net/pdf?id=8Py-W8lSUgy)]
 
-* WEIGHTED TRAINING FOR CROSS-TASK LEARNING (ICLR, 2022) [[paper](https://openreview.net/pdf?id=ltM1RMZntpu)] [[code](https://github.com/CogComp/TAWT)]
+* Weighted Training for Cross-task Learning (ICLR, 2022) [[paper](https://openreview.net/pdf?id=ltM1RMZntpu)] [[code](https://github.com/CogComp/TAWT)]
 
 * Auto-λ: Disentangling Dynamic Task Relationships (arXiv, 2022) [[paper](https://arxiv.org/pdf/2202.03091.pdf)] [[code](https://github.com/lorenmt/auto-lambda)]
 
