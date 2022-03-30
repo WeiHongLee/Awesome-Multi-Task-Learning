@@ -42,7 +42,7 @@ Feel free to contact me if you find any interesting paper is missing!
 
 * **[CAGrad]** Conflict-Averse Gradient Descent for Multi-task Learning (NeurIPS, 2021) [[paper](https://openreview.net/pdf?id=_61Qh8tULj_)] [[code](https://github.com/Cranial-XIX/CAGrad)]
 
-* Learning Multiple Dense Prediction Tasks from Partially Annotated Data (arXiv, 2021) [[paper](https://arxiv.org/pdf/2111.14893.pdf)]
+* Learning Multiple Dense Prediction Tasks from Partially Annotated Data (arXiv, 2021) [[paper](https://arxiv.org/pdf/2111.14893.pdf)] [[code](https://github.com/VICO-UoE/MTPSL)]
 
 * A Closer Look at Loss Weighting in Multi-Task Learning (arXiv, 2021) [[paper](https://arxiv.org/pdf/2111.10603.pdf)]
 
