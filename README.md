@@ -18,6 +18,10 @@ Feel free to contact me if you find any interesting paper is missing!
 
 ### 2022
 
+* Universal Representations: A Unified Look at Multiple Task and Domain Learning (arXiv, 2022) [[paper](https://arxiv.org/pdf/2204.02744.pdf)] [[code](https://github.com/VICO-UoE/UniversalRepresentations)]
+
+* Task Adaptive Parameter Sharing for Multi-Task Learning (arXiv, 2022) [[paper](https://arxiv.org/pdf/2203.16708.pdf)]
+
 * Visual Representation Learning over Latent Domains (ICLR, 2022) [[paper](https://openreview.net/pdf?id=kG0AtPi6JI1)]
 
 * ADARL: What, Where, and How to Adapt in Transfer Reinforcement Learning (ICLR, 2022) [[paper](https://openreview.net/pdf?id=8H5bpVwvt5)] [[code](https://github.com/Adaptive-RL/AdaRL-code)]
@@ -63,6 +67,8 @@ Feel free to contact me if you find any interesting paper is missing!
 * MultiTask-CenterNet (MCN): Efficient and Diverse Multitask Learning using an Anchor Free Approach (ICCV Workshop, 2021) [[paper](https://openaccess.thecvf.com/content/ICCV2021W/ERCVAD/papers/Heuer_MultiTask-CenterNet_MCN_Efficient_and_Diverse_Multitask_Learning_Using_an_Anchor_ICCVW_2021_paper.pdf)]
 
 * See Yourself in Others: Attending Multiple Tasks for Own Failure Detection (arXiv, 2021) [[paper](https://arxiv.org/pdf/2110.02549.pdf)]
+
+* A Multi-Task Cross-Task Learning Architecture for Ad-hoc Uncertainty Estimation in 3D Cardiac MRI Image Segmentation (CinC, 2021) [[paper](https://www.cinc.org/2021/Program/accepted/115_Preprint.pdf)] [[code](https://github.com/SMKamrulHasan/MTCTL)]
 
 * Multi-Task Reinforcement Learning with Context-based Representations (ICML, 2021) [[paper](http://arxiv.org/abs/2102.06177)]
 
