@@ -18,7 +18,7 @@ Feel free to contact me if you find any interesting paper is missing!
 
 ### 2022
 
-* Universal Representations: A Unified Look at Multiple Task and Domain Learning (arXiv, 2022) [[paper](https://arxiv.org/pdf/2204.02744.pdf)] [[code](https://github.com/VICO-UoE/UniversalRepresentations)]
+* **[Universal Representations]** Universal Representations: A Unified Look at Multiple Task and Domain Learning (arXiv, 2022) [[paper](https://arxiv.org/pdf/2204.02744.pdf)] [[code](https://github.com/VICO-UoE/UniversalRepresentations)]
 
 * Task Adaptive Parameter Sharing for Multi-Task Learning (arXiv, 2022) [[paper](https://arxiv.org/pdf/2203.16708.pdf)]
 
