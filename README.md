@@ -34,6 +34,8 @@ Feel free to contact me if you find any interesting paper is missing!
 
 * Weighted Training for Cross-task Learning (ICLR, 2022) [[paper](https://openreview.net/pdf?id=ltM1RMZntpu)] [[code](https://github.com/CogComp/TAWT)]
 
+* Semi-supervised Multi-task Learning for Semantics and Depth (WACV, 2022) [[paper](https://openaccess.thecvf.com/content/WACV2022/papers/Wang_Semi-Supervised_Multi-Task_Learning_for_Semantics_and_Depth_WACV_2022_paper.pdf)]
+
 * Auto-λ: Disentangling Dynamic Task Relationships (arXiv, 2022) [[paper](https://arxiv.org/pdf/2202.03091.pdf)] [[code](https://github.com/lorenmt/auto-lambda)]
 
 * In Defense of the Unitary Scalarization for Deep Multi-Task Learning (arXiv, 2022) [[paper](https://arxiv.org/pdf/2201.04122.pdf)]
