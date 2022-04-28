@@ -20,6 +20,10 @@ Feel free to contact me if you find any interesting paper is missing!
 
 * **[Universal Representations]** Universal Representations: A Unified Look at Multiple Task and Domain Learning (arXiv, 2022) [[paper](https://arxiv.org/pdf/2204.02744.pdf)] [[code](https://github.com/VICO-UoE/UniversalRepresentations)]
 
+* **[MTPSL]** Learning Multiple Dense Prediction Tasks from Partially Annotated Data (CVPR, 2022) [[paper](https://arxiv.org/pdf/2111.14893.pdf)] [[code](https://github.com/VICO-UoE/MTPSL)]
+
+* **[TSA]** Cross-domain Few-shot Learning with Task-specific Adapters (CVPR, 2022) [[paper](https://arxiv.org/pdf/2107.00358.pdf)] [[code](https://github.com/VICO-UoE/URL)]
+
 * Task Adaptive Parameter Sharing for Multi-Task Learning (arXiv, 2022) [[paper](https://arxiv.org/pdf/2203.16708.pdf)]
 
 * Visual Representation Learning over Latent Domains (ICLR, 2022) [[paper](https://openreview.net/pdf?id=kG0AtPi6JI1)]
@@ -47,8 +51,6 @@ Feel free to contact me if you find any interesting paper is missing!
 * Efficiently Identifying Task Groupings for Multi-Task Learning (NeurIPS, 2021) [[paper](http://arxiv.org/abs/2109.04617)]
 
 * **[CAGrad]** Conflict-Averse Gradient Descent for Multi-task Learning (NeurIPS, 2021) [[paper](https://openreview.net/pdf?id=_61Qh8tULj_)] [[code](https://github.com/Cranial-XIX/CAGrad)]
-
-* Learning Multiple Dense Prediction Tasks from Partially Annotated Data (arXiv, 2021) [[paper](https://arxiv.org/pdf/2111.14893.pdf)] [[code](https://github.com/VICO-UoE/MTPSL)]
 
 * A Closer Look at Loss Weighting in Multi-Task Learning (arXiv, 2021) [[paper](https://arxiv.org/pdf/2111.10603.pdf)]
 
@@ -89,8 +91,6 @@ Feel free to contact me if you find any interesting paper is missing!
 * Taskology: Utilizing Task Relations at Scale (CVPR, 2021) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Lu_Taskology_Utilizing_Task_Relations_at_Scale_CVPR_2021_paper.pdf)]
 
 * Three Ways to Improve Semantic Segmentation with Self-Supervised Depth Estimation (CVPR, 2021) [[paper](https://arxiv.org/pdf/2012.10782.pdf)] [[code](https://github.com/lhoyer/improving_segmentation_with_selfsupervised_depth)]
-
-* Cross-domain Few-shot Learning with Task-specific Adapters (arXiv, 2021) [[paper](https://arxiv.org/pdf/2107.00358.pdf)] [[code](https://github.com/VICO-UoE/URL)]
 
 * Improving Semi-Supervised and Domain-Adaptive Semantic Segmentation with Self-Supervised Depth Estimation (arXiv, 2021) [[paper](https://arxiv.org/pdf/2108.12545.pdf)] [[code](https://github.com/lhoyer/improving_segmentation_with_selfsupervised_depth)]
 
