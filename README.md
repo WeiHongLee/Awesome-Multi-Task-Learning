@@ -24,7 +24,9 @@ Feel free to contact me if you find any interesting paper is missing!
 
 * **[TSA]** Cross-domain Few-shot Learning with Task-specific Adapters (CVPR, 2022) [[paper](https://arxiv.org/pdf/2107.00358.pdf)] [[code](https://github.com/VICO-UoE/URL)]
 
-* Task Adaptive Parameter Sharing for Multi-Task Learning (arXiv, 2022) [[paper](https://arxiv.org/pdf/2203.16708.pdf)]
+* Task Adaptive Parameter Sharing for Multi-Task Learning (CVPR, 2022) [[paper](https://arxiv.org/pdf/2203.16708.pdf)]
+
+* Medusa: Universal Feature Learning via Attentional Multitasking (CVPR Workshop, 2022) [[paper](https://arxiv.org/abs/2204.05698)]
 
 * Visual Representation Learning over Latent Domains (ICLR, 2022) [[paper](https://openreview.net/pdf?id=kG0AtPi6JI1)]
 
