@@ -28,6 +28,8 @@ Feel free to contact me if you find any interesting paper is missing!
 
 * Task Adaptive Parameter Sharing for Multi-Task Learning (CVPR, 2022) [[paper](https://arxiv.org/pdf/2203.16708.pdf)]
 
+* Controllable Dynamic Multi-Task Architectures (CVPR, 2022) [[paper](https://arxiv.org/pdf/2203.14949.pdf)] [[code](https://www.nec-labs.com/~mas/DYMU/)]
+
 * Medusa: Universal Feature Learning via Attentional Multitasking (CVPR Workshop, 2022) [[paper](https://arxiv.org/abs/2204.05698)]
 
 * Visual Representation Learning over Latent Domains (ICLR, 2022) [[paper](https://openreview.net/pdf?id=kG0AtPi6JI1)]
