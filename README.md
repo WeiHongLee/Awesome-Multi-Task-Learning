@@ -24,6 +24,8 @@ Feel free to contact me if you find any interesting paper is missing!
 
 * **[TSA]** Cross-domain Few-shot Learning with Task-specific Adapters (CVPR, 2022) [[paper](https://arxiv.org/pdf/2107.00358.pdf)] [[code](https://github.com/VICO-UoE/URL)]
 
+* **[OMNIVORE]** OMNIVORE: A Single Model for Many Visual Modalities (CVPR, 2022) [[paper](https://arxiv.org/pdf/2201.08377.pdf)] [[code](https://github.com/facebookresearch/omnivore)]
+
 * Task Adaptive Parameter Sharing for Multi-Task Learning (CVPR, 2022) [[paper](https://arxiv.org/pdf/2203.16708.pdf)]
 
 * Medusa: Universal Feature Learning via Attentional Multitasking (CVPR Workshop, 2022) [[paper](https://arxiv.org/abs/2204.05698)]
