@@ -18,6 +18,8 @@ Feel free to contact me if you find any interesting paper is missing!
 
 ### 2022
 
+* **[MultiMAE]** MultiMAE: Multi-modal Multi-task Masked Autoencoders (arXiv, 2022) [[paper](https://arxiv.org/pdf/2204.01678.pdf)] [[code](https://multimae.epfl.ch)]
+
 * **[Universal Representations]** Universal Representations: A Unified Look at Multiple Task and Domain Learning (arXiv, 2022) [[paper](https://arxiv.org/pdf/2204.02744.pdf)] [[code](https://github.com/VICO-UoE/UniversalRepresentations)]
 
 * **[MTPSL]** Learning Multiple Dense Prediction Tasks from Partially Annotated Data (CVPR, 2022) [[paper](https://arxiv.org/pdf/2111.14893.pdf)] [[code](https://github.com/VICO-UoE/MTPSL)]
