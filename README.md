@@ -18,9 +18,13 @@ Feel free to contact me if you find any interesting paper is missing!
 
 ### 2022
 
+* Multi-Task Learning with Multi-query Transformer for Dense Prediction (arXiv, 2022) [[paper](https://arxiv.org/pdf/2205.14354.pdf)]
+
 * **[Gato]** A Generalist Agent (arXiv, 2022) [[paper](https://arxiv.org/pdf/2205.06175.pdf)]
 
 * **[Universal Representations]** Universal Representations: A Unified Look at Multiple Task and Domain Learning (arXiv, 2022) [[paper](https://arxiv.org/pdf/2204.02744.pdf)] [[code](https://github.com/VICO-UoE/UniversalRepresentations)]
+
+* Inverted Pyramid Multi-task Transformer for Dense Scene Understanding (arXiv, 2022) [[paper](https://arxiv.org/pdf/2203.07997.pdf)]
 
 * **[MultiMAE]** MultiMAE: Multi-modal Multi-task Masked Autoencoders (arXiv, 2022) [[paper](https://arxiv.org/pdf/2204.01678.pdf)] [[code](https://multimae.epfl.ch)]
 
