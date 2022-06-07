@@ -76,6 +76,8 @@ Feel free to contact me if you find any interesting paper is missing!
 
 * Omnidata: A Scalable Pipeline for Making Multi-Task Mid-Level Vision Datasets from 3D Scans (ICCV, 2021) [[paper](https://arxiv.org/pdf/2110.04994.pdf)] [[project](https://omnidata.vision)]
 
+* Robustness via Cross-Domain Ensembles (ICCV, 2021) [[paper](https://arxiv.org/abs/2103.10919)] [[code](https://github.com/EPFL-VILAB/XDEnsembles)]
+
 * Domain Adaptive Semantic Segmentation with Self-Supervised Depth Estimation (ICCV, 2021) [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Domain_Adaptive_Semantic_Segmentation_With_Self-Supervised_Depth_Estimation_ICCV_2021_paper.pdf)] [[code](https://qin.ee/corda)]
 
 * **[URL]** Universal Representation Learning from Multiple Domains for Few-shot Classification (ICCV, 2021) [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_Universal_Representation_Learning_From_Multiple_Domains_for_Few-Shot_Classification_ICCV_2021_paper.pdf)] [[code](https://github.com/VICO-UoE/URL)]
