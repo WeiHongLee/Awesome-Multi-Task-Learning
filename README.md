@@ -38,11 +38,11 @@ Feel free to contact me if you find any interesting paper is missing!
 
 * Controllable Dynamic Multi-Task Architectures (CVPR, 2022) [[paper](https://arxiv.org/pdf/2203.14949.pdf)] [[code](https://www.nec-labs.com/~mas/DYMU/)]
 
-* SHIFT: A Synthetic Driving Dataset for Continuous Multi-Task Domain Adaptation (CVPR, 2022) [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Sun_SHIFT_A_Synthetic_Driving_Dataset_for_Continuous_Multi-Task_Domain_Adaptation_CVPR_2022_paper.pdf)] [[code](https://www.vis.xyz/shift/)]
+* **[SHIFT]** SHIFT: A Synthetic Driving Dataset for Continuous Multi-Task Domain Adaptation (CVPR, 2022) [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Sun_SHIFT_A_Synthetic_Driving_Dataset_for_Continuous_Multi-Task_Domain_Adaptation_CVPR_2022_paper.pdf)] [[code](https://www.vis.xyz/shift/)]
 
 * DiSparse: Disentangled Sparsification for Multitask Model Compression (CVPR, 2022) [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Sun_DiSparse_Disentangled_Sparsification_for_Multitask_Model_Compression_CVPR_2022_paper.pdf)] [[code](https://github.com/SHI-Labs/DiSparse-Multitask-Model-Compression)]
 
-* MulT: An End-to-End Multitask Learning Transformer (CVPR, 2022) [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Bhattacharjee_MulT_An_End-to-End_Multitask_Learning_Transformer_CVPR_2022_paper.pdf)] [[code](https://github.com/IVRL/MulT)]
+* **[MulT]** MulT: An End-to-End Multitask Learning Transformer (CVPR, 2022) [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Bhattacharjee_MulT_An_End-to-End_Multitask_Learning_Transformer_CVPR_2022_paper.pdf)] [[code](https://github.com/IVRL/MulT)]
 
 * Sound and Visual Representation Learning with Multiple Pretraining Tasks (CVPR, 2022) [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Vasudevan_Sound_and_Visual_Representation_Learning_With_Multiple_Pretraining_Tasks_CVPR_2022_paper.pdf)]
 
