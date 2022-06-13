@@ -4,9 +4,9 @@ Feel free to contact me if you find any interesting paper is missing!
 
 ## Survey
 
-* A Survey on Multi-Task Learning (TKDE, 2021) [[paper](https://ieeexplore.ieee.org/abstract/document/9392366)]
-
 * Multi-Task Learning for Dense Prediction Tasks: A Survey (TPAMI, 2021) [[paper](https://arxiv.org/abs/2004.13379)] [[code](https://github.com/SimonVandenhende/Multi-Task-Learning-PyTorch)]
+
+* A Survey on Multi-Task Learning (TKDE, 2021) [[paper](https://ieeexplore.ieee.org/abstract/document/9392366)]
 
 * Multi-Task Learning with Deep Neural Networks: A Survey (arXiv, 2020) [[paper](http://arxiv.org/abs/2009.09796)]
 
