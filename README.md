@@ -48,6 +48,10 @@ Feel free to contact me if you find any interesting paper is missing!
 
 * Medusa: Universal Feature Learning via Attentional Multitasking (CVPR Workshop, 2022) [[paper](https://arxiv.org/abs/2204.05698)]
 
+* An Evolutionary Approach to Dynamic Introduction of Tasks in Large-scale Multitask Learning Systems (arXiv, 2022) [[paper](https://arxiv.org/pdf/2205.12755.pdf)] [[code](https://github.com/google-research/google-research/tree/master/muNet)]
+
+* Combining Modular Skills in Multitask Learning (arXiv, 2022) [[paper](https://arxiv.org/pdf/2202.13914.pdf)]
+
 * Visual Representation Learning over Latent Domains (ICLR, 2022) [[paper](https://openreview.net/pdf?id=kG0AtPi6JI1)]
 
 * ADARL: What, Where, and How to Adapt in Transfer Reinforcement Learning (ICLR, 2022) [[paper](https://openreview.net/pdf?id=8H5bpVwvt5)] [[code](https://github.com/Adaptive-RL/AdaRL-code)]
