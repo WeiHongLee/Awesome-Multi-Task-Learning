@@ -2,13 +2,17 @@
 
 Feel free to contact me if you find any interesting paper is missing!
 
-## Survey
+## Survey & Study
+
+* Factors of Influence for Transfer Learning across Diverse Appearance Domains and Task Types (TPAMI, 2022) [[paper](https://arxiv.org/pdf/2103.13318.pdf)]
 
 * Multi-Task Learning for Dense Prediction Tasks: A Survey (TPAMI, 2021) [[paper](https://arxiv.org/abs/2004.13379)] [[code](https://github.com/SimonVandenhende/Multi-Task-Learning-PyTorch)]
 
 * A Survey on Multi-Task Learning (TKDE, 2021) [[paper](https://ieeexplore.ieee.org/abstract/document/9392366)]
 
 * Multi-Task Learning with Deep Neural Networks: A Survey (arXiv, 2020) [[paper](http://arxiv.org/abs/2009.09796)]
+
+* Taskonomy: Disentangling Task Transfer Learning (CVPR, 2018 [best paper]) [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zamir_Taskonomy_Disentangling_Task_CVPR_2018_paper.pdf)] [[dataset](http://taskonomy.stanford.edu/)]
 
 * A Comparison of Loss Weighting Strategies for Multi task Learning in Deep Neural Networks (IEEE Access, 2019) [[paper](https://ieeexplore.ieee.org/document/8848395)]
 
