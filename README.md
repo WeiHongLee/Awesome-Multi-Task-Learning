@@ -22,6 +22,16 @@ Feel free to contact me if you find any interesting paper is missing!
 
 ### 2022
 
+* A Multi-objective / Multi-task Learning Framework Induced by Pareto Stationarity (ICML, 2022) [[paper](https://proceedings.mlr.press/v162/momma22a.html)]
+
+* Mitigating Modality Collapse in Multimodal VAEs via Impartial Optimization (ICML, 2022) [[paper](https://proceedings.mlr.press/v162/javaloy22a.html)]
+
+* Active Multi-Task Representation Learning (ICML, 2022) [[paper](https://proceedings.mlr.press/v162/chen22j.html)]
+
+* Generative Modeling for Multi-task Visual Learning (ICML, 2022) [[paper](https://proceedings.mlr.press/v162/bao22c.html)] [[code](https://github.com/zpbao/multi-task-oriented_generative_modeling)]
+
+* Multi-Task Learning as a Bargaining Game (ICML, 2022) [[paper](https://proceedings.mlr.press/v162/navon22a.html)] [[code](https://github.com/AvivNavon/nash-mtl)]
+
 * **[MultiMAE]** MultiMAE: Multi-modal Multi-task Masked Autoencoders (ECCV, 2022) [[paper](https://arxiv.org/pdf/2204.01678.pdf)] [[code](https://multimae.epfl.ch)]
 
 * Multi-Task Learning with Multi-query Transformer for Dense Prediction (arXiv, 2022) [[paper](https://arxiv.org/pdf/2205.14354.pdf)]
@@ -73,8 +83,6 @@ Feel free to contact me if you find any interesting paper is missing!
 * Auto-λ: Disentangling Dynamic Task Relationships (arXiv, 2022) [[paper](https://arxiv.org/pdf/2202.03091.pdf)] [[code](https://github.com/lorenmt/auto-lambda)]
 
 * In Defense of the Unitary Scalarization for Deep Multi-Task Learning (arXiv, 2022) [[paper](https://arxiv.org/pdf/2201.04122.pdf)]
-
-* Multi-Task Learning as a Bargaining Game (arXiv, 2022) [[paper](https://arxiv.org/pdf/2202.01017.pdf)] [[code](https://github.com/AvivNavon/nash-mtl)]
 
 ### 2021
 
