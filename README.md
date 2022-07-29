@@ -22,6 +22,8 @@ Feel free to contact me if you find any interesting paper is missing!
 
 ### 2022
 
+* **[InvPT]** Inverted Pyramid Multi-task Transformer for Dense Scene Understanding (ECCV, 2022) [[paper](https://arxiv.org/pdf/2203.07997.pdf)] [[code](https://pythondig.com/r/code-of-eccv-paper-inverted-pyramid-multitask-transformer-for-dense-scene-understanding)]
+
 * **[MultiMAE]** MultiMAE: Multi-modal Multi-task Masked Autoencoders (ECCV, 2022) [[paper](https://arxiv.org/pdf/2204.01678.pdf)] [[code](https://multimae.epfl.ch)]
 
 * A Multi-objective / Multi-task Learning Framework Induced by Pareto Stationarity (ICML, 2022) [[paper](https://proceedings.mlr.press/v162/momma22a.html)]
@@ -39,8 +41,6 @@ Feel free to contact me if you find any interesting paper is missing!
 * **[Gato]** A Generalist Agent (arXiv, 2022) [[paper](https://arxiv.org/pdf/2205.06175.pdf)]
 
 * **[Universal Representations]** Universal Representations: A Unified Look at Multiple Task and Domain Learning (arXiv, 2022) [[paper](https://arxiv.org/pdf/2204.02744.pdf)] [[code](https://github.com/VICO-UoE/UniversalRepresentations)]
-
-* Inverted Pyramid Multi-task Transformer for Dense Scene Understanding (arXiv, 2022) [[paper](https://arxiv.org/pdf/2203.07997.pdf)]
 
 * **[MTPSL]** Learning Multiple Dense Prediction Tasks from Partially Annotated Data (CVPR, 2022) [[paper](https://arxiv.org/pdf/2111.14893.pdf)] [[code](https://github.com/VICO-UoE/MTPSL)]
 
