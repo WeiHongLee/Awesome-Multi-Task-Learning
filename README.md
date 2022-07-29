@@ -22,7 +22,7 @@ Feel free to contact me if you find any interesting paper is missing!
 
 ### 2022
 
-* **[InvPT]** Inverted Pyramid Multi-task Transformer for Dense Scene Understanding (ECCV, 2022) [[paper](https://arxiv.org/pdf/2203.07997.pdf)] [[code](https://pythondig.com/r/code-of-eccv-paper-inverted-pyramid-multitask-transformer-for-dense-scene-understanding)]
+* **[InvPT]** Inverted Pyramid Multi-task Transformer for Dense Scene Understanding (ECCV, 2022) [[paper](https://arxiv.org/pdf/2203.07997.pdf)] [[code](https://github.com/prismformore/InvPT)]
 
 * **[MultiMAE]** MultiMAE: Multi-modal Multi-task Masked Autoencoders (ECCV, 2022) [[paper](https://arxiv.org/pdf/2204.01678.pdf)] [[code](https://multimae.epfl.ch)]
 
