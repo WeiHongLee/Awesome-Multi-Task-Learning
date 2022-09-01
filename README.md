@@ -22,6 +22,14 @@ Feel free to contact me if you find any interesting paper is missing!
 
 ### 2022
 
+* **[Auto-λ]** Auto-λ: Disentangling Dynamic Task Relationships (TMLR, 2022) [[paper](https://arxiv.org/pdf/2202.03091.pdf)] [[code](https://github.com/lorenmt/auto-lambda)]
+
+* **[Universal Representations]** Universal Representations: A Unified Look at Multiple Task and Domain Learning (arXiv, 2022) [[paper](https://arxiv.org/pdf/2204.02744.pdf)] [[code](https://github.com/VICO-UoE/UniversalRepresentations)]
+
+* Not All Models Are Equal: Predicting Model Transferability in a Self-challenging Fisher Space (ECCV, 2022) [[paper](https://arxiv.org/abs/2207.03036)] [[code](https://github.com/TencentARC/SFDA)]
+
+* Factorizing Knowledge in Neural Networks (ECCV, 2022) [[paper](https://arxiv.org/abs/2207.03337)] [[code](https://github.com/Adamdad/KnowledgeFactor)]
+
 * **[InvPT]** Inverted Pyramid Multi-task Transformer for Dense Scene Understanding (ECCV, 2022) [[paper](https://arxiv.org/pdf/2203.07997.pdf)] [[code](https://github.com/prismformore/InvPT)]
 
 * **[MultiMAE]** MultiMAE: Multi-modal Multi-task Masked Autoencoders (ECCV, 2022) [[paper](https://arxiv.org/pdf/2204.01678.pdf)] [[code](https://multimae.epfl.ch)]
@@ -39,8 +47,6 @@ Feel free to contact me if you find any interesting paper is missing!
 * Multi-Task Learning with Multi-query Transformer for Dense Prediction (arXiv, 2022) [[paper](https://arxiv.org/pdf/2205.14354.pdf)]
 
 * **[Gato]** A Generalist Agent (arXiv, 2022) [[paper](https://arxiv.org/pdf/2205.06175.pdf)]
-
-* **[Universal Representations]** Universal Representations: A Unified Look at Multiple Task and Domain Learning (arXiv, 2022) [[paper](https://arxiv.org/pdf/2204.02744.pdf)] [[code](https://github.com/VICO-UoE/UniversalRepresentations)]
 
 * **[MTPSL]** Learning Multiple Dense Prediction Tasks from Partially Annotated Data (CVPR, 2022) [[paper](https://arxiv.org/pdf/2111.14893.pdf)] [[code](https://github.com/VICO-UoE/MTPSL)]
 
@@ -79,8 +85,6 @@ Feel free to contact me if you find any interesting paper is missing!
 * Weighted Training for Cross-task Learning (ICLR, 2022) [[paper](https://openreview.net/pdf?id=ltM1RMZntpu)] [[code](https://github.com/CogComp/TAWT)]
 
 * Semi-supervised Multi-task Learning for Semantics and Depth (WACV, 2022) [[paper](https://openaccess.thecvf.com/content/WACV2022/papers/Wang_Semi-Supervised_Multi-Task_Learning_for_Semantics_and_Depth_WACV_2022_paper.pdf)]
-
-* Auto-λ: Disentangling Dynamic Task Relationships (arXiv, 2022) [[paper](https://arxiv.org/pdf/2202.03091.pdf)] [[code](https://github.com/lorenmt/auto-lambda)]
 
 * In Defense of the Unitary Scalarization for Deep Multi-Task Learning (arXiv, 2022) [[paper](https://arxiv.org/pdf/2201.04122.pdf)]
 
