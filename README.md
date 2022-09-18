@@ -1,6 +1,6 @@
 # Awesome Multi-task Learning
 
-Feel free to contact me or create a pull request if you find any interesting paper is missing!
+Feel free to contact me or contribute if you find any interesting paper is missing!
 
 ## Table of Contents
 - [Survey & Study](#survey--study)
