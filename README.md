@@ -4,8 +4,7 @@ Feel free to contact me or create a pull request if you find any interesting pap
 
 ## Table of Contents
 - [Survey & Study](#survey--study)
-- [Benchmarks](#benchmarks)
-- [Code](#code)
+- [Benchmarks & Code](#benchmarks--code)
 - [Papers](#papers)
 - [Multi-domain Multi-task Learning](#multi-domain-multi-task-learning)
 - [Workshops](#workshops)
@@ -28,7 +27,7 @@ Feel free to contact me or create a pull request if you find any interesting pap
 
 * An Overview of Multi-Task Learning in Deep Neural Networks (arXiv, 2017) [[paper](http://arxiv.org/abs/1706.05098)]
 
-## Benchmarks
+## Benchmarks & Code
 <details>
   <summary>Benchmarks</summary>
 
@@ -59,7 +58,9 @@ Feel free to contact me or create a pull request if you find any interesting pap
 * **[CelebA]** Deep Learning Face Attributes in the Wild (ICCV, 2015) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7410782)] [[dataset](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)]
 </details>
 
-## Code
+
+<details>
+  <summary>Code</summary>
 
 * [Multi-Task-Learning-PyTorch](https://github.com/SimonVandenhende/Multi-Task-Learning-PyTorch): Multi-task Dense Prediction.
 
@@ -76,6 +77,7 @@ Feel free to contact me or create a pull request if you find any interesting pap
 * [MTPSL](https://github.com/VICO-UoE/MTPSL): Multi-task Partially-supervised Learning for Dense Prediction.
 
 * [Resisual Adapater](https://github.com/srebuffi/residual_adapters): Multi-domain Classification.
+</details>
 
 ## Papers
 
