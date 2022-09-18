@@ -6,7 +6,7 @@ Feel free to contact me or create a pull request if you find any interesting pap
 - [Survey & Study](#survey--study)
 - [Benchmarks & Code](#benchmarks--code)
 - [Papers](#papers)
-- [Multi-domain Multi-task Learning](#multi-domain-multi-task-learning)
+- [Awesome Multi-domain Multi-task Learning](#awesome-multi-domain-multi-task-learning)
 - [Workshops](#workshops)
 - [Online Courses](#online-courses)
 - [Related awesome list](#related-awesome-list)
@@ -441,7 +441,7 @@ Feel free to contact me or create a pull request if you find any interesting pap
 
 * Multitask Learning (1997) [[paper](https://link.springer.com/content/pdf/10.1023/A:1007379606734.pdf)]
 
-## [Awesome Multi-domain Multi-task Learning]()
+## [Awesome Multi-domain Multi-task Learning](https://github.com/WeiHongLee/Awesome-Multi-Domain-Multi-Task-Learning)
 
 ## Workshops
 
