@@ -1,6 +1,16 @@
 # Awesome Multi-task Learning
 
-Feel free to contact me if you find any interesting paper is missing!
+Feel free to contact me or create a pull request if you find any interesting paper is missing!
+
+## Table of Contents
+- [Survey & Study](#survey--study)
+- [Benchmarks](#benchmarks)
+- [Code](#code)
+- [Papers](#papers)
+- [Multi-domain Multi-task Learning](#multi-domain-multi-task-learning)
+- [Workshops](#workshops)
+- [Online Courses](#online-courses)
+- [Related awesome list](#related-awesome-list)
 
 ## Survey & Study
 
@@ -17,6 +27,55 @@ Feel free to contact me if you find any interesting paper is missing!
 * A Comparison of Loss Weighting Strategies for Multi task Learning in Deep Neural Networks (IEEE Access, 2019) [[paper](https://ieeexplore.ieee.org/document/8848395)]
 
 * An Overview of Multi-Task Learning in Deep Neural Networks (arXiv, 2017) [[paper](http://arxiv.org/abs/1706.05098)]
+
+## Benchmarks
+<details>
+  <summary>Benchmarks</summary>
+
+### Dense Prediction Tasks
+
+* **[NYUv2]** Indoor Segmentation and Support Inference from RGBD Images (ECCV, 2012) [[paper](https://cs.nyu.edu/~silberman/papers/indoor_seg_support.pdf)] [[dataset](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html)]
+
+* **[Cityscapes]** The Cityscapes Dataset for Semantic Urban Scene Understanding (CVPR, 2016) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7780719)] [[dataset](https://www.cityscapes-dataset.com/)]
+
+* **[PASCAL-Context]** The Role of Context for Object Detection and Semantic Segmentation in the Wild (CVPR, 2014) [[paper](https://cs.stanford.edu/~roozbeh/pascal-context/mottaghi_et_al_cvpr14.pdf)] [[dataset](https://cs.stanford.edu/~roozbeh/pascal-context/)]
+
+* **[Taskonomy]** Taskonomy: Disentangling Task Transfer Learning (CVPR, 2018 [best paper]) [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zamir_Taskonomy_Disentangling_Task_CVPR_2018_paper.pdf)] [[dataset](http://taskonomy.stanford.edu/)]
+
+* **[KITTI]** Vision meets robotics: The KITTI dataset (IJRR, 2013) [[paper](http://www.cvlibs.net/publications/Geiger2013IJRR.pdf)] [dataset](http://www.cvlibs.net/datasets/kitti/)
+
+* **[SUN RGB-D]** SUN RGB-D: A RGB-D Scene Understanding Benchmark Suite (CVPR 2015) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7298655)] [[dataset](https://rgbd.cs.princeton.edu)]
+
+* **[BDD100K]** BDD100K: A Diverse Driving Dataset for Heterogeneous Multitask Learning (CVPR, 2020) [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yu_BDD100K_A_Diverse_Driving_Dataset_for_Heterogeneous_Multitask_Learning_CVPR_2020_paper.pdf)] [[dataset](https://bdd-data.berkeley.edu/)]
+
+* **[Omnidata]** Omnidata: A Scalable Pipeline for Making Multi-Task Mid-Level Vision Datasets from 3D Scans (ICCV, 2021) [[paper](https://arxiv.org/pdf/2110.04994.pdf)] [[project](https://omnidata.vision)]
+
+### Image Classification
+
+* **[Meta-dataset]** Meta-Dataset: A Dataset of Datasets for Learning to Learn from Few Examples (ICLR, 2020) [[paper](https://openreview.net/pdf?id=rkgAGAVKPr)] [[dataset](https://github.com/google-research/meta-dataset)]
+
+* **[Visual Domain Decathlon]** Learning multiple visual domains with residual adapters (NeurIPS, 2017) [[paper](https://arxiv.org/abs/1705.08045)] [[dataset](https://www.robots.ox.ac.uk/~vgg/decathlon/)]
+
+* **[CelebA]** Deep Learning Face Attributes in the Wild (ICCV, 2015) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7410782)] [[dataset](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)]
+</details>
+
+## Code
+
+* [Multi-Task-Learning-PyTorch](https://github.com/SimonVandenhende/Multi-Task-Learning-PyTorch): Multi-task Dense Prediction.
+
+* [Auto-λ](https://github.com/lorenmt/auto-lambda): Multi-task Dense Prediction, Robotics.
+
+* [UniversalRepresentations](https://github.com/VICO-UoE/UniversalRepresentations): Multi-task Dense Prediction (including different loss weighting strategies), Multi-domain Classification, Cross-domain Few-shot Learning.
+
+* [MTAN](https://github.com/lorenmt/mtan): Multi-task Dense Prediction, Multi-domain Classification.
+
+* [ASTMT](https://github.com/facebookresearch/astmt): Multi-task Dense Prediction.
+
+* [LibMTL](https://github.com/median-research-group/libmtl): Multi-task Dense Prediction.
+
+* [MTPSL](https://github.com/VICO-UoE/MTPSL): Multi-task Partially-supervised Learning for Dense Prediction.
+
+* [Resisual Adapater](https://github.com/srebuffi/residual_adapters): Multi-domain Classification.
 
 ## Papers
 
@@ -380,33 +439,7 @@ Feel free to contact me if you find any interesting paper is missing!
 
 * Multitask Learning (1997) [[paper](https://link.springer.com/content/pdf/10.1023/A:1007379606734.pdf)]
 
-
-
-## Benchmarks
-
-### Dense Prediction Tasks
-
-* **[NYUv2]** Indoor Segmentation and Support Inference from RGBD Images (ECCV, 2012) [[paper](https://cs.nyu.edu/~silberman/papers/indoor_seg_support.pdf)] [[dataset](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html)]
-
-* **[Cityscapes]** The Cityscapes Dataset for Semantic Urban Scene Understanding (CVPR, 2016) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7780719)] [[dataset](https://www.cityscapes-dataset.com/)]
-
-* **[PASCAL-Context]** The Role of Context for Object Detection and Semantic Segmentation in the Wild (CVPR, 2014) [[paper](https://cs.stanford.edu/~roozbeh/pascal-context/mottaghi_et_al_cvpr14.pdf)] [[dataset](https://cs.stanford.edu/~roozbeh/pascal-context/)]
-
-* **[Taskonomy]** Taskonomy: Disentangling Task Transfer Learning (CVPR, 2018 [best paper]) [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zamir_Taskonomy_Disentangling_Task_CVPR_2018_paper.pdf)] [[dataset](http://taskonomy.stanford.edu/)]
-
-* **[KITTI]** Vision meets robotics: The KITTI dataset (IJRR, 2013) [[paper](http://www.cvlibs.net/publications/Geiger2013IJRR.pdf)] [dataset](http://www.cvlibs.net/datasets/kitti/)
-
-* **[SUN RGB-D]** SUN RGB-D: A RGB-D Scene Understanding Benchmark Suite (CVPR 2015) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7298655)] [[dataset](https://rgbd.cs.princeton.edu)]
-
-* **[BDD100K]** BDD100K: A Diverse Driving Dataset for Heterogeneous Multitask Learning (CVPR, 2020) [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yu_BDD100K_A_Diverse_Driving_Dataset_for_Heterogeneous_Multitask_Learning_CVPR_2020_paper.pdf)] [[dataset](https://bdd-data.berkeley.edu/)]
-
-### Image Classification
-
-* **[Meta-dataset]** Meta-Dataset: A Dataset of Datasets for Learning to Learn from Few Examples (ICLR, 2020) [[paper](https://openreview.net/pdf?id=rkgAGAVKPr)] [[dataset](https://github.com/google-research/meta-dataset)]
-
-* **[Visual Domain Decathlon]** Learning multiple visual domains with residual adapters (NeurIPS, 2017) [[paper](https://arxiv.org/abs/1705.08045)] [[dataset](https://www.robots.ox.ac.uk/~vgg/decathlon/)]
-
-* **[CelebA]** Deep Learning Face Attributes in the Wild (ICCV, 2015) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7410782)] [[dataset](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)]
+## [Awesome Multi-domain Multi-task Learning]()
 
 ## Workshops
 
@@ -431,7 +464,6 @@ Feel free to contact me if you find any interesting paper is missing!
 * https://github.com/SimonVandenhende/Awesome-Multi-Task-Learning
 
 * https://github.com/Manchery/awesome-multi-task-learning
-
 
 
 
