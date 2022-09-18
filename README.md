@@ -62,21 +62,21 @@ Feel free to contact me or contribute if you find any interesting paper is missi
 <details>
   <summary>Code</summary>
 
-* [Multi-Task-Learning-PyTorch](https://github.com/SimonVandenhende/Multi-Task-Learning-PyTorch): Multi-task Dense Prediction.
+* [[Multi-Task-Learning-PyTorch](https://github.com/SimonVandenhende/Multi-Task-Learning-PyTorch)]: Multi-task Dense Prediction.
 
-* [Auto-λ](https://github.com/lorenmt/auto-lambda): Multi-task Dense Prediction, Robotics.
+* [[Auto-λ](https://github.com/lorenmt/auto-lambda)]: Multi-task Dense Prediction, Robotics.
 
-* [UniversalRepresentations](https://github.com/VICO-UoE/UniversalRepresentations): Multi-task Dense Prediction (including different loss weighting strategies), Multi-domain Classification, Cross-domain Few-shot Learning.
+* [[UniversalRepresentations](https://github.com/VICO-UoE/UniversalRepresentations)]: [Multi-task Dense Prediction](https://github.com/VICO-UoE/UniversalRepresentations/tree/main/DensePred) (including different loss weighting strategies), [Multi-domain Classification](https://github.com/VICO-UoE/UniversalRepresentations/tree/main/VisualDecathlon), [Cross-domain Few-shot Learning](https://github.com/VICO-UoE/URL).
 
-* [MTAN](https://github.com/lorenmt/mtan): Multi-task Dense Prediction, Multi-domain Classification.
+* [[MTAN](https://github.com/lorenmt/mtan)]: Multi-task Dense Prediction, Multi-domain Classification.
 
-* [ASTMT](https://github.com/facebookresearch/astmt): Multi-task Dense Prediction.
+* [[ASTMT](https://github.com/facebookresearch/astmt)]: Multi-task Dense Prediction.
 
-* [LibMTL](https://github.com/median-research-group/libmtl): Multi-task Dense Prediction.
+* [[LibMTL](https://github.com/median-research-group/libmtl)]: Multi-task Dense Prediction.
 
-* [MTPSL](https://github.com/VICO-UoE/MTPSL): Multi-task Partially-supervised Learning for Dense Prediction.
+* [[MTPSL](https://github.com/VICO-UoE/MTPSL)]: Multi-task Partially-supervised Learning for Dense Prediction.
 
-* [Resisual Adapater](https://github.com/srebuffi/residual_adapters): Multi-domain Classification.
+* [[Resisual Adapater](https://github.com/srebuffi/residual_adapters)]: Multi-domain Classification.
 </details>
 
 ## Papers
