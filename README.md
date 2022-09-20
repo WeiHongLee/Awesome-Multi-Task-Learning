@@ -83,6 +83,8 @@ Feel free to contact me or contribute if you find any interesting paper is missi
 
 ### 2022
 
+* Task Discovery: Finding the Tasks that Neural Networks Generalize on (NeurIPS, 2022) 
+
 * **[Auto-λ]** Auto-λ: Disentangling Dynamic Task Relationships (TMLR, 2022) [[paper](https://arxiv.org/pdf/2202.03091.pdf)] [[code](https://github.com/lorenmt/auto-lambda)]
 
 * **[Universal Representations]** Universal Representations: A Unified Look at Multiple Task and Domain Learning (arXiv, 2022) [[paper](https://arxiv.org/pdf/2204.02744.pdf)] [[code](https://github.com/VICO-UoE/UniversalRepresentations)]
