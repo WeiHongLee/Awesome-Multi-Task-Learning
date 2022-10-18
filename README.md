@@ -87,6 +87,8 @@ Feel free to contact me or contribute if you find any interesting paper is missi
 
 * Multi-Task Meta Learning: learn how to adapt to unseen tasks (arXiv, 2022) [[paper](https://arxiv.org/pdf/2210.06989.pdf)]
 
+* Composite Learning for Robust and Effective Dense Predictions (WACV, 2023) [[paper](https://arxiv.org/abs/2210.07239)]
+
 * Toward Edge-Efficient Dense Predictions with Synergistic Multi-Task Neural Architecture Search (WACV, 2023) [[paper](https://arxiv.org/abs/2210.01384)] 
 
 * AutoMTL: A Programming Framework for Automating Efficient Multi-Task Learning (NeurIPS, 2022) [[paper](https://arxiv.org/abs/2110.13076)] [[code](https://github.com/zhanglijun95/AutoMTL)]
