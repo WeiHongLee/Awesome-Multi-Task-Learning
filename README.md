@@ -85,6 +85,14 @@ Feel free to contact me or contribute if you find any interesting paper is missi
 
 ### 2022
 
+* Multi-Task Meta Learning: learn how to adapt to unseen tasks (arXiv, 2022) [[paper](https://arxiv.org/pdf/2210.06989.pdf)]
+
+* Toward Edge-Efficient Dense Predictions with Synergistic Multi-Task Neural Architecture Search (WACV, 2023) [[paper](https://arxiv.org/abs/2210.01384)] 
+
+* AutoMTL: A Programming Framework for Automating Efficient Multi-Task Learning (NeurIPS, 2022) [[paper](https://arxiv.org/abs/2110.13076)] [[code](https://github.com/zhanglijun95/AutoMTL)]
+
+* Do Current Multi-Task Optimization Methods in Deep Learning Even Help? (NeurIPS, 2022) [[paper](https://arxiv.org/abs/2209.11379)]
+
 * Task Discovery: Finding the Tasks that Neural Networks Generalize on (NeurIPS, 2022) 
 
 * **[Auto-λ]** Auto-λ: Disentangling Dynamic Task Relationships (TMLR, 2022) [[paper](https://arxiv.org/pdf/2202.03091.pdf)] [[code](https://github.com/lorenmt/auto-lambda)]
