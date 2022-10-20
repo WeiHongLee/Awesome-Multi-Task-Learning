@@ -91,6 +91,8 @@ Feel free to contact me or contribute if you find any interesting paper is missi
 
 ### 2022
 
+* Sub-Task Imputation via Self-Labelling to Train Image Moderation Models on Sparse Noisy Data (ACM CIKM, 2022) [[paper](https://dl.acm.org/doi/pdf/10.1145/3511808.3557149)]
+
 * Multi-Task Meta Learning: learn how to adapt to unseen tasks (arXiv, 2022) [[paper](https://arxiv.org/pdf/2210.06989.pdf)]
 
 * AutoMTL: A Programming Framework for Automating Efficient Multi-Task Learning (NeurIPS, 2022) [[paper](https://arxiv.org/abs/2110.13076)] [[code](https://github.com/zhanglijun95/AutoMTL)]
@@ -102,6 +104,8 @@ Feel free to contact me or contribute if you find any interesting paper is missi
 * **[Auto-λ]** Auto-λ: Disentangling Dynamic Task Relationships (TMLR, 2022) [[paper](https://arxiv.org/pdf/2202.03091.pdf)] [[code](https://github.com/lorenmt/auto-lambda)]
 
 * **[Universal Representations]** Universal Representations: A Unified Look at Multiple Task and Domain Learning (arXiv, 2022) [[paper](https://arxiv.org/pdf/2204.02744.pdf)] [[code](https://github.com/VICO-UoE/UniversalRepresentations)]
+
+* MTFormer: Multi-Task Learning via Transformer and Cross-Task Reasoning (ECCV, 2022) [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136870299.pdf)] 
 
 * Not All Models Are Equal: Predicting Model Transferability in a Self-challenging Fisher Space (ECCV, 2022) [[paper](https://arxiv.org/abs/2207.03036)] [[code](https://github.com/TencentARC/SFDA)]
 
