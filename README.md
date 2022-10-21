@@ -97,6 +97,8 @@ Feel free to contact me or contribute if you find any interesting paper is missi
 
 * AutoMTL: A Programming Framework for Automating Efficient Multi-Task Learning (NeurIPS, 2022) [[paper](https://arxiv.org/abs/2110.13076)] [[code](https://github.com/zhanglijun95/AutoMTL)]
 
+* Association Graph Learning for Multi-Task Classification with Category Shifts (NeurIPS, 2022) [[paper](https://arxiv.org/pdf/2210.04637.pdf)] [[code](https://github.com/autumn9999/MTC-with-Category-Shifts)]
+
 * Do Current Multi-Task Optimization Methods in Deep Learning Even Help? (NeurIPS, 2022) [[paper](https://arxiv.org/abs/2209.11379)]
 
 * Task Discovery: Finding the Tasks that Neural Networks Generalize on (NeurIPS, 2022) 
@@ -170,6 +172,8 @@ Feel free to contact me or contribute if you find any interesting paper is missi
 * In Defense of the Unitary Scalarization for Deep Multi-Task Learning (arXiv, 2022) [[paper](https://arxiv.org/pdf/2201.04122.pdf)]
 
 ### 2021
+
+* Variational Multi-Task Learning with Gumbel-Softmax Priors (NeurIPS, 2021) [[paper](https://arxiv.org/pdf/2111.05323.pdf)] [[code](https://github.com/autumn9999/VMTL)]
 
 * Efficiently Identifying Task Groupings for Multi-Task Learning (NeurIPS, 2021) [[paper](http://arxiv.org/abs/2109.04617)]
 
