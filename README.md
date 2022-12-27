@@ -85,11 +85,17 @@ Feel free to contact me or contribute if you find any interesting paper is missi
 
 ### 2023
 
+* Contrastive Multi-Task Dense Prediction (AAAI 2023) [[paper](https://laos-y.github.io/uploads/yang2023AAAI/2437.YangS.pdf)]
+
 * Composite Learning for Robust and Effective Dense Predictions (WACV, 2023) [[paper](https://arxiv.org/abs/2210.07239)]
 
 * Toward Edge-Efficient Dense Predictions with Synergistic Multi-Task Neural Architecture Search (WACV, 2023) [[paper](https://arxiv.org/abs/2210.01384)] 
 
 ### 2022
+
+* RepMode: Learning to Re-parameterize Diverse Experts for Subcellular Structure Prediction (arXiv, 2022) [[paper](https://arxiv.org/abs/2212.10066)]
+
+* LEARNING USEFUL REPRESENTATIONS FOR SHIFTING TASKS AND DISTRIBUTIONS (arXiv, 2022) [[paper](https://arxiv.org/abs/2212.07346)]
 
 * Sub-Task Imputation via Self-Labelling to Train Image Moderation Models on Sparse Noisy Data (ACM CIKM, 2022) [[paper](https://dl.acm.org/doi/pdf/10.1145/3511808.3557149)]
 
