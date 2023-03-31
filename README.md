@@ -85,6 +85,10 @@ Feel free to contact me or contribute if you find any interesting paper is missi
 
 ### 2023
 
+* UNIVERSAL FEW-SHOT LEARNING OF DENSE PREDIC- TION TASKS WITH VISUAL TOKEN MATCHING (ICLR 2023) [[paper](https://openreview.net/pdf?id=88nT0j5jAn)]
+
+* TASKPROMPTER: SPATIAL-CHANNEL MULTI-TASK PROMPTING FOR DENSE SCENE UNDERSTANDING (ICLR 2023) [[paper](https://openreview.net/forum?id=-CwPopPJda)]
+
 * Contrastive Multi-Task Dense Prediction (AAAI 2023) [[paper](https://laos-y.github.io/uploads/yang2023AAAI/2437.YangS.pdf)]
 
 * Composite Learning for Robust and Effective Dense Predictions (WACV, 2023) [[paper](https://arxiv.org/abs/2210.07239)]
