@@ -85,9 +85,15 @@ Feel free to contact me or contribute if you find any interesting paper is missi
 
 ### 2023
 
-* UNIVERSAL FEW-SHOT LEARNING OF DENSE PREDIC- TION TASKS WITH VISUAL TOKEN MATCHING (ICLR 2023) [[paper](https://openreview.net/pdf?id=88nT0j5jAn)]
+* A Study of Autoregressive Decoders for Multi-Tasking in Computer Vision (arXiv, 2023) [[paper](https://arxiv.org/pdf/2303.17376.pdf)]
 
-* TASKPROMPTER: SPATIAL-CHANNEL MULTI-TASK PROMPTING FOR DENSE SCENE UNDERSTANDING (ICLR 2023) [[paper](https://openreview.net/forum?id=-CwPopPJda)]
+* Efficient Computation Sharing for Multi-Task Visual Scene Understanding (arXiv, 2023) [[paper](https://arxiv.org/pdf/2303.09663.pdf)]
+
+* Mitigating Task Interference in Multi-Task Learning via Explicit Task Routing with Non-Learnable Primitives (CVPR, 2023) [[paper](http://hal.cse.msu.edu/assets/pdfs/papers/2023-cvpr-multi-task-learning-non-learnable-task-routing.pdf)] [[code](https://github.com/zhichao-lu/etr-nlp-mtl)]
+
+* UNIVERSAL FEW-SHOT LEARNING OF DENSE PREDIC- TION TASKS WITH VISUAL TOKEN MATCHING (ICLR, 2023) [[paper](https://openreview.net/pdf?id=88nT0j5jAn)]
+
+* TASKPROMPTER: SPATIAL-CHANNEL MULTI-TASK PROMPTING FOR DENSE SCENE UNDERSTANDING (ICLR, 2023) [[paper](https://openreview.net/forum?id=-CwPopPJda)] [[code](https://github.com/prismformore/Multi-Task-Transformer/tree/main/TaskPrompter)] [[dataset](https://arxiv.org/pdf/2304.00971.pdf)]
 
 * Contrastive Multi-Task Dense Prediction (AAAI 2023) [[paper](https://laos-y.github.io/uploads/yang2023AAAI/2437.YangS.pdf)]
 
