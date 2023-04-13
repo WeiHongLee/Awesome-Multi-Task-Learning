@@ -89,6 +89,8 @@ Feel free to contact me or contribute if you find any interesting paper is missi
 
 * Efficient Computation Sharing for Multi-Task Visual Scene Understanding (arXiv, 2023) [[paper](https://arxiv.org/pdf/2303.09663.pdf)]
 
+* Mod-Squad: Designing Mixture of Experts As Modular Multi-Task Learners (CVPR, 2023) [[paper](https://arxiv.org/pdf/2212.08066.pdf)] [[code](https://vis-www.cs.umass.edu/mod-squad/)]
+
 * Mitigating Task Interference in Multi-Task Learning via Explicit Task Routing with Non-Learnable Primitives (CVPR, 2023) [[paper](http://hal.cse.msu.edu/assets/pdfs/papers/2023-cvpr-multi-task-learning-non-learnable-task-routing.pdf)] [[code](https://github.com/zhichao-lu/etr-nlp-mtl)]
 
 * UNIVERSAL FEW-SHOT LEARNING OF DENSE PREDIC- TION TASKS WITH VISUAL TOKEN MATCHING (ICLR, 2023) [[paper](https://openreview.net/pdf?id=88nT0j5jAn)]
@@ -110,6 +112,8 @@ Feel free to contact me or contribute if you find any interesting paper is missi
 * Sub-Task Imputation via Self-Labelling to Train Image Moderation Models on Sparse Noisy Data (ACM CIKM, 2022) [[paper](https://dl.acm.org/doi/pdf/10.1145/3511808.3557149)]
 
 * Multi-Task Meta Learning: learn how to adapt to unseen tasks (arXiv, 2022) [[paper](https://arxiv.org/pdf/2210.06989.pdf)]
+
+* M<sup>3</sup>ViT: Mixture-of-Experts Vision Transformer for Efficient Multi-task Learning with Model-Accelerator Co-design (NeurIPS, 2022) [[paper](https://openreview.net/pdf?id=cFOhdl1cyU-)] [[code](https://github.com/VITA-Group/M3ViT)]
 
 * AutoMTL: A Programming Framework for Automating Efficient Multi-Task Learning (NeurIPS, 2022) [[paper](https://arxiv.org/abs/2110.13076)] [[code](https://github.com/zhanglijun95/AutoMTL)]
 
