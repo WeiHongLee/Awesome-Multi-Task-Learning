@@ -85,6 +85,10 @@ Feel free to contact me or contribute if you find any interesting paper is missi
 
 ### 2023
 
+* AutoTaskFormer: Searching Vision Transformers for Multi-task Learning (arXiv, 2023) [[paper](https://arxiv.org/pdf/2304.08756.pdf)]
+
+* AdaTT: Adaptive Task-to-Task Fusion Network for Multitask Learning in Recommendations (arXiv, 2023) [[paper](https://arxiv.org/pdf/2304.04959.pdf)]
+
 * A Study of Autoregressive Decoders for Multi-Tasking in Computer Vision (arXiv, 2023) [[paper](https://arxiv.org/pdf/2303.17376.pdf)]
 
 * Efficient Computation Sharing for Multi-Task Visual Scene Understanding (arXiv, 2023) [[paper](https://arxiv.org/pdf/2303.09663.pdf)]
