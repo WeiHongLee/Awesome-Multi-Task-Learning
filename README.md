@@ -64,6 +64,8 @@ Feel free to contact me or contribute if you find any interesting paper is missi
 <details>
   <summary>Code</summary>
 
+* [[Multi-Task-Transformer](https://github.com/prismformore/Multi-Task-Transformer)]: Transformer for Multi-task Learning including dense prediction problems and 3D detection on Cityscapes.
+
 * [[Multi-Task-Learning-PyTorch](https://github.com/SimonVandenhende/Multi-Task-Learning-PyTorch)]: Multi-task Dense Prediction.
 
 * [[Auto-λ](https://github.com/lorenmt/auto-lambda)]: Multi-task Dense Prediction, Robotics.
