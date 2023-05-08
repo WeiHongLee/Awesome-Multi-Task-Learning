@@ -2,8 +2,6 @@
 
 Feel free to contact me or contribute if you find any interesting paper is missing!
 
-&#x1F4E3; &#x1F4E3; &#x1F4E3; We are organizing the [Universal Representations for Computer Vision Workshop](https://sites.google.com/view/universalrepresentations) at BMVC 2022. We invite submissions of regular and short papers. See [Call for Papers](https://sites.google.com/view/universalrepresentations/call-for-papers) for more details!
-
 ## Table of Contents
 - [Survey & Study](#survey--study)
 - [Benchmarks & Code](#benchmarks--code)
@@ -494,6 +492,8 @@ Feel free to contact me or contribute if you find any interesting paper is missi
 ## [Awesome Multi-domain Multi-task Learning](https://github.com/WeiHongLee/Awesome-Multi-Domain-Multi-Task-Learning)
 
 ## Workshops
+
+* [Universal Representations for Computer Vision Workshop at BMVC 2022](https://sites.google.com/view/universalrepresentations)
 
 * [Workshop on Multi-Task Learning in Computer Vision (DeepMTL) at ICCV 2021](https://sites.google.com/view/deepmtlworkshop/home)
 
