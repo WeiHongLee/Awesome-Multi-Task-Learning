@@ -85,6 +85,10 @@ Feel free to contact me or contribute if you find any interesting paper is missi
 
 ### 2023
 
+* MetaMorphosis: Task-oriented Privacy Cognizant Feature Generation for Multi-task Learning (arXiv, 2023) [[paper](https://arxiv.org/abs/2305.07815)]
+
+* ESSR: Evolving Sparse Sharing Representation for Multi-task Learning (arXiv, 2023) [[paper](https://ieeexplore.ieee.org/abstract/document/10114675)]
+
 * AutoTaskFormer: Searching Vision Transformers for Multi-task Learning (arXiv, 2023) [[paper](https://arxiv.org/pdf/2304.08756.pdf)]
 
 * AdaTT: Adaptive Task-to-Task Fusion Network for Multitask Learning in Recommendations (arXiv, 2023) [[paper](https://arxiv.org/pdf/2304.04959.pdf)]
