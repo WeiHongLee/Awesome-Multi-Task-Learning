@@ -85,6 +85,8 @@ Feel free to contact me or contribute if you find any interesting paper is missi
 
 ### 2023
 
+* Independent Component Alignment for Multi-Task Learning (CVPR, 2023) [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Senushkin_Independent_Component_Alignment_for_Multi-Task_Learning_CVPR_2023_paper.pdf)] [[code](https://github.com/SamsungLabs/MTL)]
+
 * MetaMorphosis: Task-oriented Privacy Cognizant Feature Generation for Multi-task Learning (arXiv, 2023) [[paper](https://arxiv.org/abs/2305.07815)]
 
 * ESSR: Evolving Sparse Sharing Representation for Multi-task Learning (arXiv, 2023) [[paper](https://ieeexplore.ieee.org/abstract/document/10114675)]
