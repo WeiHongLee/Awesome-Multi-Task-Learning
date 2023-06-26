@@ -85,6 +85,12 @@ Feel free to contact me or contribute if you find any interesting paper is missi
 
 ### 2023
 
+* **[InvPT++]**: Inverted Pyramid Multi-Task Transformer for Visual Scene Understanding (arXiv, 2023) [[paper](https://arxiv.org/pdf/2306.04842.pdf)] [[code](https://github.com/prismformore/Multi-Task-Transformer/tree/main/InvPT)]
+
+* FAMO: Fast Adaptive Multitask Optimization (arXiv, 2023) [[paper](https://arxiv.org/pdf/2306.03792.pdf)] [[code](https://github.com/Cranial-XIX/FAMO)]
+
+* Sample-Level Weighting for Multi-Task Learning with Auxiliary Tasks (arXiv, 2023) [[paper](https://arxiv.org/pdf/2306.04519.pdf)]
+
 * DynaShare: Task and Instance Conditioned Parameter Sharing for Multi-Task Learning (arXiv, 2023) [[paper](https://arxiv.org/abs/2305.17305)]
 
 * MDL-NAS: A Joint Multi-domain Learning Framework for Vision Transformer (CVPR, 2023) [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_MDL-NAS_A_Joint_Multi-Domain_Learning_Framework_for_Vision_Transformer_CVPR_2023_paper.pdf)]
