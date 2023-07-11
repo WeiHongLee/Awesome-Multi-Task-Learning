@@ -21,7 +21,7 @@ Feel free to contact me or contribute if you find any interesting paper is missi
 
 * Multi-Task Learning with Deep Neural Networks: A Survey (arXiv, 2020) [[paper](http://arxiv.org/abs/2009.09796)]
 
-* Taskonomy: Disentangling Task Transfer Learning (CVPR, 2018 [best paper]) [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zamir_Taskonomy_Disentangling_Task_CVPR_2018_paper.pdf)] [[dataset](http://taskonomy.stanford.edu/)]
+* Taskonomy: Disentangling Task Transfer Learning (CVPR, 2018, **Best Paper**) [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zamir_Taskonomy_Disentangling_Task_CVPR_2018_paper.pdf)] [[dataset](http://taskonomy.stanford.edu/)]
 
 * A Comparison of Loss Weighting Strategies for Multi task Learning in Deep Neural Networks (IEEE Access, 2019) [[paper](https://ieeexplore.ieee.org/document/8848395)]
 
@@ -85,6 +85,10 @@ Feel free to contact me or contribute if you find any interesting paper is missi
 
 ### 2023
 
+* Auxiliary Learning as an Asymmetric Bargaining Game (ICML, 2023) [[paper](https://arxiv.org/pdf/2301.13501.pdf)] [[code](https://github.com/AvivSham/auxinash)]
+
+* Learning to Modulate pre-trained Models in RL (arXiv, 2023) [[paper](https://arxiv.org/abs/2306.14884)] [[code](https://github.com/ml-jku/L2M)]
+
 * **[InvPT++]**: Inverted Pyramid Multi-Task Transformer for Visual Scene Understanding (arXiv, 2023) [[paper](https://arxiv.org/pdf/2306.04842.pdf)] [[code](https://github.com/prismformore/Multi-Task-Transformer/tree/main/InvPT)]
 
 * FAMO: Fast Adaptive Multitask Optimization (arXiv, 2023) [[paper](https://arxiv.org/pdf/2306.03792.pdf)] [[code](https://github.com/Cranial-XIX/FAMO)]
@@ -93,11 +97,15 @@ Feel free to contact me or contribute if you find any interesting paper is missi
 
 * DynaShare: Task and Instance Conditioned Parameter Sharing for Multi-Task Learning (arXiv, 2023) [[paper](https://arxiv.org/abs/2305.17305)]
 
+* Planning-oriented Autonomous Driving (CVPR, 2023, **Best Paper**) [[paper](https://arxiv.org/pdf/2212.10156.pdf)] [[code](https://github.com/OpenDriveLab/UniAD)]
+
 * MDL-NAS: A Joint Multi-domain Learning Framework for Vision Transformer (CVPR, 2023) [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_MDL-NAS_A_Joint_Multi-Domain_Learning_Framework_for_Vision_Transformer_CVPR_2023_paper.pdf)]
 
 * Hierarchical Prompt Learning for Multi-Task Learning (CVPR, 2023) [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_Hierarchical_Prompt_Learning_for_Multi-Task_Learning_CVPR_2023_paper.pdf)]
 
 * Independent Component Alignment for Multi-Task Learning (CVPR, 2023) [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Senushkin_Independent_Component_Alignment_for_Multi-Task_Learning_CVPR_2023_paper.pdf)] [[code](https://github.com/SamsungLabs/MTL)]
+
+* ForkMerge: Mitigating Negative Transfer in Auxiliary-Task Learning (TMLR, 2023) [[paper](https://arxiv.org/abs/2301.12618)] [[code]()]
 
 * MetaMorphosis: Task-oriented Privacy Cognizant Feature Generation for Multi-task Learning (arXiv, 2023) [[paper](https://arxiv.org/abs/2305.07815)]
 
@@ -114,6 +122,8 @@ Feel free to contact me or contribute if you find any interesting paper is missi
 * Mod-Squad: Designing Mixture of Experts As Modular Multi-Task Learners (CVPR, 2023) [[paper](https://arxiv.org/pdf/2212.08066.pdf)] [[code](https://vis-www.cs.umass.edu/mod-squad/)]
 
 * Mitigating Task Interference in Multi-Task Learning via Explicit Task Routing with Non-Learnable Primitives (CVPR, 2023) [[paper](http://hal.cse.msu.edu/assets/pdfs/papers/2023-cvpr-multi-task-learning-non-learnable-task-routing.pdf)] [[code](https://github.com/zhichao-lu/etr-nlp-mtl)]
+
+* Mitigating Gradient Bias in Multi-objective Learning: A Provably Convergent Approach (ICLR, 2023) [[paper](https://openreview.net/forum?id=dLAYGdKTi2)] 
 
 * UNIVERSAL FEW-SHOT LEARNING OF DENSE PREDIC- TION TASKS WITH VISUAL TOKEN MATCHING (ICLR, 2023) [[paper](https://openreview.net/pdf?id=88nT0j5jAn)]
 
@@ -173,7 +183,7 @@ Feel free to contact me or contribute if you find any interesting paper is missi
 
 * **[Gato]** A Generalist Agent (arXiv, 2022) [[paper](https://arxiv.org/pdf/2205.06175.pdf)]
 
-* **[MTPSL]** Learning Multiple Dense Prediction Tasks from Partially Annotated Data (CVPR, 2022) [[paper](https://arxiv.org/pdf/2111.14893.pdf)] [[code](https://github.com/VICO-UoE/MTPSL)]
+* **[MTPSL]** Learning Multiple Dense Prediction Tasks from Partially Annotated Data (CVPR, 2022, **Best Paper Finalist**) [[paper](https://arxiv.org/pdf/2111.14893.pdf)] [[code](https://github.com/VICO-UoE/MTPSL)]
 
 * **[TSA]** Cross-domain Few-shot Learning with Task-specific Adapters (CVPR, 2022) [[paper](https://arxiv.org/pdf/2107.00358.pdf)] [[code](https://github.com/VICO-UoE/URL)]
 
