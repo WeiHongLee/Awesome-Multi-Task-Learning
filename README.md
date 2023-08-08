@@ -85,6 +85,10 @@ Feel free to contact me or contribute if you find any interesting paper is missi
 
 ### 2023
 
+* TaskExpert: Dynamically Assembling Multi-Task Representations with Memorial Mixture-of-Experts (ICCV, 2023) [[paper](https://arxiv.org/pdf/2307.15324.pdf)] 
+
+* Prompt Guided Transformer for Multi-Task Dense Prediction (arXiv, 2023) [[paper](https://arxiv.org/pdf/2307.15362.pdf)]
+
 * Auxiliary Learning as an Asymmetric Bargaining Game (ICML, 2023) [[paper](https://arxiv.org/pdf/2301.13501.pdf)] [[code](https://github.com/AvivSham/auxinash)]
 
 * Learning to Modulate pre-trained Models in RL (arXiv, 2023) [[paper](https://arxiv.org/abs/2306.14884)] [[code](https://github.com/ml-jku/L2M)]
