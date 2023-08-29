@@ -85,6 +85,16 @@ Feel free to contact me or contribute if you find any interesting paper is missi
 
 ### 2023
 
+* Label Budget Allocation in Multi-Task Learning (arXiv, 2023) [[paper](https://arxiv.org/pdf/2308.12949.pdf)]
+
+* Efficient Controllable Multi-Task Architectures (arXiv, 2023) [[paper](https://arxiv.org/pdf/2308.11744.pdf)]
+
+* Foundation Model is Efficient Multimodal Multitask Model Selector (arXiv, 2023) [[paper](https://arxiv.org/abs/2308.06262)] [[code](https://github.com/OpenGVLab/Multitask-Model-Selector)]
+
+* Deformable Mixer Transformer with Gating for Multi-Task Learning of Dense Prediction (arXiv, 2023) [[paper](https://arxiv.org/abs/2308.05721)] [[code](https://github.com/yangyangxu0/DeMTG)]
+
+* Vision Transformer Adapters for Generalizable Multitask Learning (ICCV, 2023) [[paper](https://arxiv.org/abs/2308.12372)] [[code](https://ivrl.github.io/VTAGML/)]
+
 * TaskExpert: Dynamically Assembling Multi-Task Representations with Memorial Mixture-of-Experts (ICCV, 2023) [[paper](https://arxiv.org/pdf/2307.15324.pdf)] 
 
 * Prompt Guided Transformer for Multi-Task Dense Prediction (arXiv, 2023) [[paper](https://arxiv.org/pdf/2307.15362.pdf)]
