@@ -49,6 +49,8 @@ Feel free to contact me or contribute if you find any interesting paper is missi
 
 * **[Omnidata]** Omnidata: A Scalable Pipeline for Making Multi-Task Mid-Level Vision Datasets from 3D Scans (ICCV, 2021) [[paper](https://arxiv.org/pdf/2110.04994.pdf)] [[project](https://omnidata.vision)]
 
+* **Cityscapes-3D** Joint 2D-3D Multi-task Learning on Cityscapes-3D: 3D Detection, Segmentation, and Depth Estimation. [[dataset and code](https://github.com/prismformore/Multi-Task-Transformer/tree/main/TaskPrompter)]
+
 ### Image Classification
 
 * **[Meta-dataset]** Meta-Dataset: A Dataset of Datasets for Learning to Learn from Few Examples (ICLR, 2020) [[paper](https://openreview.net/pdf?id=rkgAGAVKPr)] [[dataset](https://github.com/google-research/meta-dataset)]
@@ -84,6 +86,8 @@ Feel free to contact me or contribute if you find any interesting paper is missi
 ## Papers
 
 ### 2023
+
+* UMT-Net: A Uniform Multi-Task Network with Adaptive Task Weighting (TIV, 2023) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10264163&casa_token=M3FwWSHrnG8AAAAA:lgQdSxiw05Xt5enCrn9wWxCoxxn40vmtkdw_U3gdoqmCjN_ge36-iDWScvODpvLWck6zx1VlyQQ?tag=1)]
 
 * Label Budget Allocation in Multi-Task Learning (arXiv, 2023) [[paper](https://arxiv.org/pdf/2308.12949.pdf)]
 
@@ -249,7 +253,7 @@ Feel free to contact me or contribute if you find any interesting paper is missi
 
 * Exploring Relational Context for Multi-Task Dense Prediction (ICCV, 2021) [[paper](http://arxiv.org/abs/2104.13874)] [[code](https://github.com/brdav/atrc)]
 
-* Multi-Task Self-Training for Learning General Representations (ICCV, 2021) [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Ghiasi_Multi-Task_Self-Training_for_Learning_General_Representations_ICCV_2021_paper.pdf)]
+* Multi-Task Self-Training for Learning General Representations (ICCVW, 2021) [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Ghiasi_Multi-Task_Self-Training_for_Learning_General_Representations_ICCV_2021_paper.pdf)]
 
 * Task Switching Network for Multi-task Learning (ICCV, 2021) [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Sun_Task_Switching_Network_for_Multi-Task_Learning_ICCV_2021_paper.html)] [[code](https://github.com/GuoleiSun/TSNs)]
 
