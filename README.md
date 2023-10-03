@@ -87,6 +87,8 @@ Feel free to contact me or contribute if you find any interesting paper is missi
 
 ### 2023
 
+* Multi-task Learning with 3D-Aware Regularization (arXiv, 2023) [[paper](https://arxiv.org/pdf/2310.00986.pdf)] [[code](https://github.com/VICO-UoE/MTPSL)]
+
 * UMT-Net: A Uniform Multi-Task Network with Adaptive Task Weighting (TIV, 2023) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10264163&casa_token=M3FwWSHrnG8AAAAA:lgQdSxiw05Xt5enCrn9wWxCoxxn40vmtkdw_U3gdoqmCjN_ge36-iDWScvODpvLWck6zx1VlyQQ?tag=1)]
 
 * Label Budget Allocation in Multi-Task Learning (arXiv, 2023) [[paper](https://arxiv.org/pdf/2308.12949.pdf)]
