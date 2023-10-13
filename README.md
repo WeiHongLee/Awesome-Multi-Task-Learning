@@ -99,6 +99,10 @@ Feel free to contact me or contribute if you find any interesting paper is missi
 
 * Deformable Mixer Transformer with Gating for Multi-Task Learning of Dense Prediction (arXiv, 2023) [[paper](https://arxiv.org/abs/2308.05721)] [[code](https://github.com/yangyangxu0/DeMTG)]
 
+* AdaMV-MoE: Adaptive Multi-Task Vision Mixture-of-Experts (ICCV, 2023) [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_AdaMV-MoE_Adaptive_Multi-Task_Vision_Mixture-of-Experts_ICCV_2023_paper.pdf)] [[code](https://github.com/google-research/google-research/tree/master/moe_mtl)]
+
+* Deep Multitask Learning with Progressive Parameter Sharing (ICCV, 2023) [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Shi_Deep_Multitask_Learning_with_Progressive_Parameter_Sharing_ICCV_2023_paper.pdf)]
+
 * Achievement-based Training Progress Balancing for Multi-Task Learning (ICCV, 2023) [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Yun_Achievement-Based_Training_Progress_Balancing_for_Multi-Task_Learning_ICCV_2023_paper.pdf)] [[code](https://github.com/samsung/Achievement-based-MTL)]
 
 * Multi-Task Learning with Knowledge Distillation for Dense Prediction (ICCV, 2023) [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Xu_Multi-Task_Learning_with_Knowledge_Distillation_for_Dense_Prediction_ICCV_2023_paper.pdf)]
