@@ -87,6 +87,8 @@ Feel free to contact me or contribute if you find any interesting paper is missi
 
 ### 2023
 
+* Data exploitation: multi-task learning of object detection and semantic segmentation on partially annotated data (BMVC, 2023) [[paper](https://arxiv.org/pdf/2311.04040.pdf)] [[code](https://github.com/lhoangan/multas)]
+
 * Factorized Tensor Networks for Multi-task and Multi-domain Learning (arXiv, 2023) [[paper](https://arxiv.org/pdf/2310.06124.pdf)]
 
 * Multi-task Learning with 3D-Aware Regularization (arXiv, 2023) [[paper](https://arxiv.org/pdf/2310.00986.pdf)] [[code](https://github.com/VICO-UoE/MTPSL)]
