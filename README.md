@@ -85,7 +85,13 @@ Feel free to contact me or contribute if you find any interesting paper is missi
 
 ## Papers
 
+### 2024
+
+* Active Learning with Task Consistency and Diversity in Multi-Task Networks (WACV, 2024) [[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Hekimoglu_Active_Learning_With_Task_Consistency_and_Diversity_in_Multi-Task_Networks_WACV_2024_paper.pdf)] [[code](https://github.com/aralhekimoglu/mtal)]
+
 ### 2023
+
+* Rethinking of Feature Interaction for Multi-task Learning on Dense Prediction (arXiv, 2023) [[paper](https://arxiv.org/pdf/2312.13514.pdf)]
 
 * PolyMaX: General Dense Prediction with Mask Transformer (arXiv, 2023) [[paper](https://arxiv.org/pdf/2311.05770.pdf)] [[code](https://github.com/google-research/deeplab2)]
 
