@@ -87,6 +87,18 @@ Feel free to contact me or contribute if you find any interesting paper is missi
 
 ### 2024
 
+* Bayesian Uncertainty for Gradient Aggregation in Multi-Task Learning (arXiv, 2024) [[paper](https://arxiv.org/pdf/2402.04005.pdf)] [[code](https://github.com/ssi-research/BayesAgg_MTL)]
+
+* Representation Surgery for Multi-Task Model Merging (arXiv, 2024) [[paper](https://arxiv.org/pdf/2402.02705.pdf)] [[code](https://github.com/EnnengYang/RepresentationSurgery)]
+
+* Multi-task Learning with 3D-Aware Regularization (ICLR, 2024) [[paper](https://openreview.net/attachment?id=TwBY17Hgiy&name=pdf)] [[code](https://github.com/VICO-UoE/MTPSL)]
+
+* AdaMerging: Adaptive Model Merging for Multi-Task Learning (ICLR, 2024) [[paper](https://openreview.net/attachment?id=nZP6NgD3QY&name=pdf)] [[code](https://github.com/EnnengYang/AdaMerging)]
+
+* ZipIt! Merging Models from Different Tasks without Training (ICLR, 2024) [[paper](https://openreview.net/attachment?id=LEYUkvdUhq&name=pdf)] [[code](https://github.com/gstoica27/ZipIt)]
+
+* Denoising Task Routing for Diffusion Models (ICLR, 2024) [[paper](https://openreview.net/attachment?id=MY0qlcFcUg&name=pdf)] [[code](https://byeongjun-park.github.io/DTR/)]
+
 * Active Learning with Task Consistency and Diversity in Multi-Task Networks (WACV, 2024) [[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Hekimoglu_Active_Learning_With_Task_Consistency_and_Diversity_in_Multi-Task_Networks_WACV_2024_paper.pdf)] [[code](https://github.com/aralhekimoglu/mtal)]
 
 ### 2023
@@ -100,8 +112,6 @@ Feel free to contact me or contribute if you find any interesting paper is missi
 * Data exploitation: multi-task learning of object detection and semantic segmentation on partially annotated data (BMVC, 2023) [[paper](https://arxiv.org/pdf/2311.04040.pdf)] [[code](https://github.com/lhoangan/multas)]
 
 * Factorized Tensor Networks for Multi-task and Multi-domain Learning (arXiv, 2023) [[paper](https://arxiv.org/pdf/2310.06124.pdf)]
-
-* Multi-task Learning with 3D-Aware Regularization (arXiv, 2023) [[paper](https://arxiv.org/pdf/2310.00986.pdf)] [[code](https://github.com/VICO-UoE/MTPSL)]
 
 * UMT-Net: A Uniform Multi-Task Network with Adaptive Task Weighting (TIV, 2023) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10264163&casa_token=M3FwWSHrnG8AAAAA:lgQdSxiw05Xt5enCrn9wWxCoxxn40vmtkdw_U3gdoqmCjN_ge36-iDWScvODpvLWck6zx1VlyQQ?tag=1)]
 
