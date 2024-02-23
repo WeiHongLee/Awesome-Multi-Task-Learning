@@ -103,6 +103,8 @@ Feel free to contact me or contribute if you find any interesting paper is missi
 
 ### 2023
 
+* Addressing Negative Transfer in Diffusion Models (Neurips, 2023) [[paper](https://openreview.net/pdf?id=3G2ec833mW)] [[code](https://github.com/gohyojun15/ANT_diffusion)]
+
 * Rethinking of Feature Interaction for Multi-task Learning on Dense Prediction (arXiv, 2023) [[paper](https://arxiv.org/pdf/2312.13514.pdf)]
 
 * PolyMaX: General Dense Prediction with Mask Transformer (arXiv, 2023) [[paper](https://arxiv.org/pdf/2311.05770.pdf)] [[code](https://github.com/google-research/deeplab2)]
