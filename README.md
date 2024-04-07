@@ -87,6 +87,14 @@ Feel free to contact me or contribute if you find any interesting paper is missi
 
 ### 2024
 
+
+
+* Region-aware Distribution Contrast: A Novel Approach to Multi-Task Partially Supervised Learning (arXiv, 2024) [[paper](https://arxiv.org/pdf/2403.10252.pdf)]
+
+* Joint-Task Regularization for Partially Labeled Multi-Task Learning (CVPR, 2024) [[paper](https://arxiv.org/pdf/2404.01976v1.pdf)] [[code](https://github.com/KentoNishi/JTR-CVPR-2024)]
+
+* DiffusionMTL: Learning Multi-Task Denoising Diffusion Model from Partially Annotated Data (CVPR, 2024) [[paper](https://arxiv.org/abs/2403.15389)] [[code](https://github.com/prismformore/DiffusionMTL)]
+
 * Bayesian Uncertainty for Gradient Aggregation in Multi-Task Learning (arXiv, 2024) [[paper](https://arxiv.org/pdf/2402.04005.pdf)] [[code](https://github.com/ssi-research/BayesAgg_MTL)]
 
 * Representation Surgery for Multi-Task Model Merging (arXiv, 2024) [[paper](https://arxiv.org/pdf/2402.02705.pdf)] [[code](https://github.com/EnnengYang/RepresentationSurgery)]
