@@ -91,6 +91,8 @@ Feel free to contact me or contribute if you find any interesting paper is missi
 
 * Region-aware Distribution Contrast: A Novel Approach to Multi-Task Partially Supervised Learning (arXiv, 2024) [[paper](https://arxiv.org/pdf/2403.10252.pdf)]
 
+* Multi-Task Dense Prediction via Mixture of Low-Rank Experts (CVPR, 2024) [[paper](https://arxiv.org/abs/2403.17749)] [[code](https://github.com/YuqiYang213/MLoRE)]
+
 * Joint-Task Regularization for Partially Labeled Multi-Task Learning (CVPR, 2024) [[paper](https://arxiv.org/pdf/2404.01976v1.pdf)] [[code](https://github.com/KentoNishi/JTR-CVPR-2024)]
 
 * DiffusionMTL: Learning Multi-Task Denoising Diffusion Model from Partially Annotated Data (CVPR, 2024) [[paper](https://arxiv.org/abs/2403.15389)] [[code](https://github.com/prismformore/DiffusionMTL)]
