@@ -87,7 +87,7 @@ Feel free to contact me or contribute if you find any interesting paper is missi
 
 ### 2024
 
-
+* Bayesian Uncertainty for Gradient Aggregation in Multi-Task Learning (ICML, 2024) [[paper](https://arxiv.org/pdf/2402.04005)] [[code](https://github.com/ssi-research/BayesAgg_MTL)]
 
 * Region-aware Distribution Contrast: A Novel Approach to Multi-Task Partially Supervised Learning (arXiv, 2024) [[paper](https://arxiv.org/pdf/2403.10252.pdf)]
 
@@ -198,6 +198,8 @@ Feel free to contact me or contribute if you find any interesting paper is missi
 * Composite Learning for Robust and Effective Dense Predictions (WACV, 2023) [[paper](https://arxiv.org/abs/2210.07239)]
 
 * Toward Edge-Efficient Dense Predictions with Synergistic Multi-Task Neural Architecture Search (WACV, 2023) [[paper](https://arxiv.org/abs/2210.01384)] 
+
+* Cross-task Attention Mechanism for Dense Multi-task Learning (WACV, 2023) [[paper](https://openaccess.thecvf.com/content/WACV2023/papers/Lopes_Cross-Task_Attention_Mechanism_for_Dense_Multi-Task_Learning_WACV_2023_paper.pdf)] [[code](https://github.com/astra-vision/DenseMTL)]
 
 ### 2022
 
