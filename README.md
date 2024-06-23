@@ -87,6 +87,8 @@ Feel free to contact me or contribute if you find any interesting paper is missi
 
 ### 2024
 
+* Fair Resource Allocation in Multi-Task Learning (ICML, 2024) [[paper](https://arxiv.org/abs/2402.15638)] [[code](https://github.com/OptMN-Lab/fairgrad)]
+
 * Bayesian Uncertainty for Gradient Aggregation in Multi-Task Learning (ICML, 2024) [[paper](https://arxiv.org/pdf/2402.04005)] [[code](https://github.com/ssi-research/BayesAgg_MTL)]
 
 * Region-aware Distribution Contrast: A Novel Approach to Multi-Task Partially Supervised Learning (arXiv, 2024) [[paper](https://arxiv.org/pdf/2403.10252.pdf)]
@@ -112,6 +114,8 @@ Feel free to contact me or contribute if you find any interesting paper is missi
 * Active Learning with Task Consistency and Diversity in Multi-Task Networks (WACV, 2024) [[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Hekimoglu_Active_Learning_With_Task_Consistency_and_Diversity_in_Multi-Task_Networks_WACV_2024_paper.pdf)] [[code](https://github.com/aralhekimoglu/mtal)]
 
 ### 2023
+
+* Direction-oriented Multi-objective Learning: Simple and Provable Stochastic Algorithms (Neurips, 2023) [[paper](https://arxiv.org/abs/2305.18409)] [[code](https://github.com/OptMN-Lab/sdmgrad)]
 
 * Addressing Negative Transfer in Diffusion Models (Neurips, 2023) [[paper](https://openreview.net/pdf?id=3G2ec833mW)] [[code](https://github.com/gohyojun15/ANT_diffusion)]
 
