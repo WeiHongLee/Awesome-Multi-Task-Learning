@@ -3,6 +3,7 @@
 Feel free to contact me or contribute if you find any interesting paper is missing!
 
 ## Table of Contents
+
 - [Survey & Study](#survey--study)
 - [Benchmarks & Code](#benchmarks--code)
 - [Papers](#papers)
@@ -12,6 +13,10 @@ Feel free to contact me or contribute if you find any interesting paper is missi
 - [Related awesome list](#related-awesome-list)
 
 ## Survey & Study
+
+* Unleashing the Power of Multi-Task Learning: A Comprehensive Survey Spanning Traditional, Deep, and Pretrained Foundation Model Eras (arXiv, 2024) [[paper](https://arxiv.org/pdf/2404.18961)] [[code](https://github.com/junfish/Awesome-Multitask-Learning)]
+
+* A Survey on Mixture of Experts  (arXiv, 2024) [[paper](https://arxiv.org/pdf/2407.06204)] [[code](https://github.com/withinmiaov/A-Survey-on-Mixture-of-Experts)]
 
 * Factors of Influence for Transfer Learning across Diverse Appearance Domains and Task Types (TPAMI, 2022) [[paper](https://arxiv.org/pdf/2103.13318.pdf)]
 
@@ -614,6 +619,8 @@ Feel free to contact me or contribute if you find any interesting paper is missi
 * https://github.com/SimonVandenhende/Awesome-Multi-Task-Learning
 
 * https://github.com/Manchery/awesome-multi-task-learning
+
+* https://github.com/junfish/Awesome-Multitask-Learning
 
 
 
