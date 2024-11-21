@@ -101,6 +101,9 @@ Feel free to contact me or contribute if you find any interesting paper is missi
 * Multi-Task Dense Prediction via Mixture of Low-Rank Experts (CVPR, 2024) [[paper](https://arxiv.org/abs/2403.17749)] [[code](https://github.com/YuqiYang213/MLoRE)]
 
 * Joint-Task Regularization for Partially Labeled Multi-Task Learning (CVPR, 2024) [[paper](https://arxiv.org/pdf/2404.01976v1.pdf)] [[code](https://github.com/KentoNishi/JTR-CVPR-2024)]
+  
+* Going Beyond Multi-Task Dense Prediction with Synergy Embedding Models (CVPR, 2024)  
+  [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_Going_Beyond_Multi-Task_Dense_Prediction_with_Synergy_Embedding_Models_CVPR_2024_paper.pdf)]
 
 * DiffusionMTL: Learning Multi-Task Denoising Diffusion Model from Partially Annotated Data (CVPR, 2024) [[paper](https://arxiv.org/abs/2403.15389)] [[code](https://github.com/prismformore/DiffusionMTL)]
 
