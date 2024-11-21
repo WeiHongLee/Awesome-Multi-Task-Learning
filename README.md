@@ -91,9 +91,12 @@ Feel free to contact me or contribute if you find any interesting paper is missi
 ## Papers
 
 ### 2024
+* MTMamba: Enhancing Multi-Task Dense Scene Understanding by Mamba-Based Decoders (ECCV, 2024) [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08907.pdf)] [[code](https://github.com/EnVision-Research/MTMamba)]
+  
+* Learning Representation for Multitask Learning through Self-Supervised Auxiliary Learning (ECCV, 2024) [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/10369.pdf)]
 
 * Fair Resource Allocation in Multi-Task Learning (ICML, 2024) [[paper](https://arxiv.org/abs/2402.15638)] [[code](https://github.com/OptMN-Lab/fairgrad)]
-
+  
 * Bayesian Uncertainty for Gradient Aggregation in Multi-Task Learning (ICML, 2024) [[paper](https://arxiv.org/pdf/2402.04005)] [[code](https://github.com/ssi-research/BayesAgg_MTL)]
 
 * Region-aware Distribution Contrast: A Novel Approach to Multi-Task Partially Supervised Learning (arXiv, 2024) [[paper](https://arxiv.org/pdf/2403.10252.pdf)]
@@ -101,6 +104,14 @@ Feel free to contact me or contribute if you find any interesting paper is missi
 * Multi-Task Dense Prediction via Mixture of Low-Rank Experts (CVPR, 2024) [[paper](https://arxiv.org/abs/2403.17749)] [[code](https://github.com/YuqiYang213/MLoRE)]
 
 * Joint-Task Regularization for Partially Labeled Multi-Task Learning (CVPR, 2024) [[paper](https://arxiv.org/pdf/2404.01976v1.pdf)] [[code](https://github.com/KentoNishi/JTR-CVPR-2024)]
+  
+* MTLoRA: Low-Rank Adaptation Approach for Efficient Multi-Task Learning (CVPR, 2024) [[paper](https://arxiv.org/pdf/2403.20320)] [[code](https://github.com/scale-lab/MTLoRA)]
+
+* FedHCA2: Towards Hetero-Client Federated Multi-Task Learning (CVPR, 2024) [[paper](https://arxiv.org/pdf/2311.13250)] [[code](https://github.com/innovator-zero/FedHCA2)]
+
+* Going Beyond Multi-Task Dense Prediction with Synergy Embedding Models (CVPR, 2024) [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_Going_Beyond_Multi-Task_Dense_Prediction_with_Synergy_Embedding_Models_CVPR_2024_paper.pdf)]
+  
+* Efficient Multitask Dense Predictor via Binarization (CVPR, 2024) [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Shang_Efficient_Multitask_Dense_Predictor_via_Binarization_CVPR_2024_paper.pdf)]
 
 * DiffusionMTL: Learning Multi-Task Denoising Diffusion Model from Partially Annotated Data (CVPR, 2024) [[paper](https://arxiv.org/abs/2403.15389)] [[code](https://github.com/prismformore/DiffusionMTL)]
 
@@ -111,7 +122,9 @@ Feel free to contact me or contribute if you find any interesting paper is missi
 * Multi-task Learning with 3D-Aware Regularization (ICLR, 2024) [[paper](https://openreview.net/attachment?id=TwBY17Hgiy&name=pdf)] [[code](https://github.com/VICO-UoE/MTPSL)]
 
 * AdaMerging: Adaptive Model Merging for Multi-Task Learning (ICLR, 2024) [[paper](https://openreview.net/attachment?id=nZP6NgD3QY&name=pdf)] [[code](https://github.com/EnnengYang/AdaMerging)]
-
+  
+* Merging Multi-Task Models via Weight-Ensembling Mixture of Experts (ICLR, 2024) [[paper](https://openreview.net/pdf?id=nLRKnO74RB)]
+  
 * ZipIt! Merging Models from Different Tasks without Training (ICLR, 2024) [[paper](https://openreview.net/attachment?id=LEYUkvdUhq&name=pdf)] [[code](https://github.com/gstoica27/ZipIt)]
 
 * Denoising Task Routing for Diffusion Models (ICLR, 2024) [[paper](https://openreview.net/attachment?id=MY0qlcFcUg&name=pdf)] [[code](https://byeongjun-park.github.io/DTR/)]
