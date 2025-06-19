@@ -69,6 +69,8 @@ Feel free to contact me or contribute if you find any interesting paper is missi
 <details>
   <summary>Code</summary>
 
+* [[TorchJD](https://arxiv.org/abs/2406.16232)]: A library for multi-objective optimization of pytorch models.
+
 * [[Multi-Task-Transformer](https://github.com/prismformore/Multi-Task-Transformer)]: Transformer for Multi-task Learning including dense prediction problems and 3D detection on Cityscapes.
 
 * [[Multi-Task-Learning-PyTorch](https://github.com/SimonVandenhende/Multi-Task-Learning-PyTorch)]: Multi-task Dense Prediction.
@@ -89,6 +91,10 @@ Feel free to contact me or contribute if you find any interesting paper is missi
 </details>
 
 ## Papers
+
+### 2025
+
+* Jacobian Descent for Multi-Objective Optimization (arXiv, 2025) [[paper](Jacobian Descent for Multi-Objective Optimization)]
 
 ### 2024
 * MTMamba: Enhancing Multi-Task Dense Scene Understanding by Mamba-Based Decoders (ECCV, 2024) [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08907.pdf)] [[code](https://github.com/EnVision-Research/MTMamba)]
