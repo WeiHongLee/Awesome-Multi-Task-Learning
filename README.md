@@ -97,6 +97,9 @@ Feel free to contact me or contribute if you find any interesting paper is missi
 * Jacobian Descent for Multi-Objective Optimization (arXiv, 2025) [[paper](Jacobian Descent for Multi-Objective Optimization)]
 
 ### 2024
+
+* Layer by Layer: Uncovering Where Multi-Task Learning Happens in Instruction-Tuned Large Language Models (EMNLP, 2024) [[paper](https://aclanthology.org/2024.emnlp-main.847.pdf)]
+
 * MTMamba: Enhancing Multi-Task Dense Scene Understanding by Mamba-Based Decoders (ECCV, 2024) [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08907.pdf)] [[code](https://github.com/EnVision-Research/MTMamba)]
   
 * Learning Representation for Multitask Learning through Self-Supervised Auxiliary Learning (ECCV, 2024) [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/10369.pdf)]
