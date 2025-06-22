@@ -69,7 +69,7 @@ Feel free to contact me or contribute if you find any interesting paper is missi
 <details>
   <summary>Code</summary>
 
-* [[TorchJD](https://arxiv.org/abs/2406.16232)]: A library for multi-objective optimization of pytorch models.
+* [[TorchJD](https://github.com/TorchJD/torchjd)]: A library for multi-objective optimization of pytorch models.
 
 * [[Multi-Task-Transformer](https://github.com/prismformore/Multi-Task-Transformer)]: Transformer for Multi-task Learning including dense prediction problems and 3D detection on Cityscapes.
 
