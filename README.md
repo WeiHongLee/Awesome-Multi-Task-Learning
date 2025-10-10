@@ -94,6 +94,7 @@ Feel free to contact me or contribute if you find any interesting paper is missi
 
 ### 2025
 
+* Beyond Losses Reweighting: Empowering Multi-Task Learning via the Generalization Perspective (ICCV Highlight, 2025) [[paper](https://arxiv.org/abs/2211.13723)] [[code](https://github.com/VietHoang1512/FS-MTL)]
 * Jacobian Descent for Multi-Objective Optimization (arXiv, 2025) [[paper](https://arxiv.org/abs/2406.16232)]
 
 ### 2024
