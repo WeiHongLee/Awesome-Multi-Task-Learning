@@ -14,6 +14,8 @@ Feel free to contact me or contribute if you find any interesting paper is missi
 
 ## Survey & Study
 
+* Revisit the Imbalance Optimization in Multi-task Learning: An Experimental Analysis (arXiv, 2025) [[paper](https://arxiv.org/abs/2509.23915)]
+
 * Unleashing the Power of Multi-Task Learning: A Comprehensive Survey Spanning Traditional, Deep, and Pretrained Foundation Model Eras (arXiv, 2024) [[paper](https://arxiv.org/pdf/2404.18961)] [[code](https://github.com/junfish/Awesome-Multitask-Learning)]
 
 * A Survey on Mixture of Experts  (arXiv, 2024) [[paper](https://arxiv.org/pdf/2407.06204)] [[code](https://github.com/withinmiaov/A-Survey-on-Mixture-of-Experts)]
@@ -94,6 +96,7 @@ Feel free to contact me or contribute if you find any interesting paper is missi
 
 ### 2025
 
+* Revisit the Imbalance Optimization in Multi-task Learning: An Experimental Analysis (arXiv, 2025) [[paper](https://arxiv.org/abs/2509.23915)]
 * Beyond Losses Reweighting: Empowering Multi-Task Learning via the Generalization Perspective (ICCV Highlight, 2025) [[paper](https://arxiv.org/abs/2211.13723)] [[code](https://github.com/VietHoang1512/FS-MTL)]
 * Jacobian Descent for Multi-Objective Optimization (arXiv, 2025) [[paper](https://arxiv.org/abs/2406.16232)]
 
