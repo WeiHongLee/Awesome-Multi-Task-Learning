@@ -94,6 +94,10 @@ Feel free to contact me or contribute if you find any interesting paper is missi
 
 ## Papers
 
+### 2026
+
+* Dataless Weight Disentanglement in Task Arithmetic via Kronecker-Factored Approximate Curvature (ICLR, 2026) [[paper](https://openreview.net/pdf?id=32mrjmaeMP)]
+
 ### 2025
 
 * Revisit the Imbalance Optimization in Multi-task Learning: An Experimental Analysis (arXiv, 2025) [[paper](https://arxiv.org/abs/2509.23915)]
